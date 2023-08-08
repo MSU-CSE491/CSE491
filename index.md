@@ -1,10 +1,10 @@
-# CSE 491: Secure and Efficient C++ Software Development
+# Secure and Efficient C++ Software Development
 ## Fall 2023
 
-| Instructor | Charles Ofria (ofria@cse.msu.edu)<br>Phone: 517 884-2562<br>Office: 1103 ISTB |
-| TA         | Austin Ferguson (fergu358@msu.edu)<br>Office: 1100 ISTB |
+| Instructor | **Charles Ofria**<br>ofria@cse.msu.edu<br>Phone: 517 884-2562<br>Office: 1103 ISTB |
+| TA         | **Austin Ferguson**<br>fergu358@msu.edu<br>Office: 1100 ISTB |
 | Meeting    | M/W 12:40 - 2:30 pm in STEM 2201 |
-| Office Hours |  To be announced. |
+| Office Hours |  *To be announced* |
 | Credits    | 4 |
 | Textbook   | None |
 
@@ -23,11 +23,12 @@ This course will be taught using a “flipped classroom” methodology. Students
 ## Grading
 Grades will be based on:
 
-| Project | 55 points |
-| Quizzes | 28 points (7 quizzes at 4 points each) |
-| Blog Entries | 12 points |
-| Participation Questions | 5 points |
-| TOTAL | 100 points |
+| **Project** | 55 points |
+| **Quizzes** | 28 points (7 quizzes at 4 points each) |
+| **Blog** Entries | 12 points |
+| **Participation Questions** | 5 points |
+| --- | --- |
+| **TOTAL** | 100 points |
 
 You will need 90 of the 100 possible points to guarantee a 4.0, 85 points for 3.5, 80 points for 3.0, 75 points for 2.5, 70 points for 2.0, 65 points for 1.5, and 60 points for 1.0.
 
