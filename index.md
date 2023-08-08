@@ -1,20 +1,24 @@
 # CSE 491: Secure and Efficient C++ Software Development
 ## Fall 2023
 
-| Instructor | Charles Ofria (ofria@cse.msu.edu) Phone: 517 884-2562, Office: 1103 ISTB |
-| TA         |		Austin Ferguson (fergu358@msu.edu) Office: 1100 ISTB |
+| Instructor | Charles Ofria (ofria@cse.msu.edu)<br>Phone: 517 884-2562<br>Office: 1103 ISTB |
+| TA         | Austin Ferguson (fergu358@msu.edu)<br>Office: 1100 ISTB |
 | Meeting    | M/W 12:40 - 2:30 pm in STEM 2201 |
 | Office Hours |  To be announced. |
 | Credits    | 4 |
 | Textbook   | None |
 
-**Required Technology**: Students are expected to bring a laptop running a modern operating system (Windows, MacOS or Linux) to each class session.  This laptop must be capable of running a modern C++ compiler and have access to the web.
+### Required Technology
+Students are expected to bring a laptop running a modern operating system (Windows, MacOS or Linux) to each class session.  This laptop must be capable of running a modern C++ compiler and have access to the web.
 
-**Description**: Students will develop large C++ projects and gain expertise with the language. Topics include modern features of C++, effective use of the standard library, and developing custom libraries, with links to other areas of computer science. Emphasis will be placed on writing code that is secure, reliable code, efficient, and generic, including good memory management practices, avoiding undefined behavior, automating through testing, and up-to-date documentation. 
+### Description
+Students will develop large C++ projects and gain expertise with the language. Topics include modern features of C++, effective use of the standard library, and developing custom libraries, with links to other areas of computer science. Emphasis will be placed on writing code that is secure, reliable code, efficient, and generic, including good memory management practices, avoiding undefined behavior, automating through testing, and up-to-date documentation. 
 
-**Pre-reqs**: Understanding of C++ basics (as taught in CSE 232 and CSE 335), completion of all 300-level CSE requirements and at least two other 400-level CSE courses.
+### Pre-requisites
+Understanding of C++ basics (as taught in CSE 232 and CSE 335), completion of all 300-level CSE requirements and at least two other 400-level CSE courses.
 
-**Teaching Style**: This course will be taught using a “flipped classroom” methodology. Students will be expected to watch provided videos before each class session.  Sessions will briefly review these topics, but focus on discussion of concepts and live implementation, debugging, or code reviews, as well as quizzes, small group discussions, and student presentations of their progress. 
+### Teaching Style
+This course will be taught using a “flipped classroom” methodology. Students will be expected to watch provided videos before each class session.  Sessions will briefly review these topics, but focus on discussion of concepts and live implementation, debugging, or code reviews, as well as quizzes, small group discussions, and student presentations of their progress. 
 
 ## Grading
 Grades will be based on:
