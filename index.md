@@ -17,7 +17,7 @@ layout: default
 | Office Hours |  *To be announced*        |
 | Credits      | 4                         |
 | Textbook     | None                      |
-| Web Site     | [https://msu-cse491.github.io/CSE491/] |
+| Web Site     | https://msu-cse491.github.io/CSE491/ |
 
 ### Tentative [Schedule]
 

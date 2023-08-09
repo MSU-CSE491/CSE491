@@ -10,20 +10,20 @@ layout: default
 | Week | Date     | Discussion Topic                    |
 |:----:|:--------:|-------------------------------------|
 | 1    | 8/28/23  | **A review of 232 and 335**             |
-|      | 8/30/23  | **Tools: Compiler Features and Static Analysis** <br> https://www.youtube.com/watch?v=i_wDa2AS_8w <br> https://www.youtube.com/watch?v=YNv_g6ceL0w <br> https://www.youtube.com/watch?v=Gwvn8ruzXT8
+|      | 8/30/23  | **Tools: Compiler Features and Static Analysis** <br> *Video:* [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w) (16 min) <br> *Video*: [Software Development with C++: clang-format](https://www.youtube.com/watch?v=YNv_g6ceL0w) (9 min) <br> *Video*: [Software Development with C++: Compiler Optimization Levels](https://www.youtube.com/watch?v=Gwvn8ruzXT8) (13 min)
 | 2    | 9/4/23   | NO CLASS                            |
-|      | 9/6/23   | C++ Core Guidelines <br> https://www.youtube.com/watch?v=XkDEzfpdcSg |
-| 3    | 9/11/23  | Ranges and Views <br> https://www.youtube.com/watch?v=L0bhZp6HMDM <br> (*optional*) https://www.youtube.com/watch?v=qv29fo9sUjY |
-|      | 9/13/23  | Deep Dive: Implementing std::string <br> https://www.youtube.com/watch?v=kPR8h4-qZdk |
+|      | 9/6/23   | C++ Core Guidelines <br> *Video:* [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?v=XkDEzfpdcSg) (62 min) |
+| 3    | 9/11/23  | Ranges and Views <br> *Video:* [C++20 Ranges in Practice](https://www.youtube.com/watch?v=L0bhZp6HMDM) (62 min) <br> (*optional*) [C++ Standard Views](https://www.youtube.com/watch?v=qv29fo9sUjY) (96 min) |
+|      | 9/13/23  | Deep Dive: Implementing std::string <br> *Video:* [The strange details of std::string at Facebook](https://www.youtube.com/watch?v=kPR8h4-qZdk) (31 min) |
 
 ### Unit II: Writing Reliable Code
 
 | Week | Date     | Discussion Topic           |
 |:----:|:--------:|----------------------------|
-| 4    | 9/18/23  | Avoiding Undefined Behavior |
-|      | 9/20/23  | Tools: Setting up Testing Frameworks |
-| 5    | 9/25/23  | Debugging your code |
-|      | 9/27/23  | Custom memory management and casting |
+| 4    | 9/18/23  | **Avoiding Undefined Behavior** <br> *Video:* [Back To Basics: Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) (62 min) |
+|      | 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* TO BE ADDED|
+| 5    | 9/25/23  | **Debugging your code** <br> *Video:* [Back To Basics: Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) (65 min) |
+|      | 9/27/23  | **Custom memory management and casting** <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) |
 
 ### Unit III: Writing Generic Code
 
