@@ -1,4 +1,9 @@
-# Tentative Schedule
+---
+layout: default
+---
+
+
+# Tentative schedule
 
 | Week | Date     | Unit       | Discussion Topic           | Pre-class material |
 |:----:|:--------:|------------|----------------------------|--------------------|
