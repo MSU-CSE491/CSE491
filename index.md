@@ -1,14 +1,21 @@
 # Secure and Efficient C++ Software Development
 ## Fall 2023
 
-| Instructor | **Charles Ofria**<br>ofria@cse.msu.edu<br>Phone: 517 884-2562<br>Office: 1103 ISTB |
-| TA         | **Austin Ferguson**<br>fergu358@msu.edu<br>Office: 1100 ISTB |
-| Meeting    | M/W 12:40 - 2:30 pm in STEM 2201 |
-| Office Hours |  *To be announced* |
-| Credits    | 4 |
-| Textbook   | None |
+| Instructor | **Charles Ofria**                             |
+|            | [ofria@cse.msu.edu](mailto:ofria@cse.msu.edu) |
+|            | Phone: 517 884-2562                           |
+|            | Office: 1103 ISTB                             |
+| TA         | **Austin Ferguson**                           |
+|            | [fergu358@msu.edu](mailto:fergu358@msu.edu)   |
+|            | Office: 1100 ISTB                             |
+| Modality     | *In Person*, in STEM 2201 |
+| Meeting Time | M/W 12:40 - 2:30 pm       |
+| Office Hours |  *To be announced*        |
+| Credits      | 4                         |
+| Textbook     | None                      |
+| Web Site     | [https://msu-cse491.github.io/CSE491/] |
 
-### [Schedule]
+### Tentative [Schedule]
 
 ### Required Technology
 Students are expected to bring a laptop running a modern operating system (Windows, MacOS or Linux) to each class session.  This laptop must be capable of running a modern C++ compiler and have access to the web.
@@ -48,9 +55,12 @@ You will be expected to watch videos before each class session that cover much o
 **A note about participation**: If you engage in conversation, you provide us with another source of information as to how well you are learning the material, and how much effort you are putting into the course. Let's have an active class! Class participation will never harm your grade; always ask any questions you may have about the material.
 
 ## Academic Dishonesty
-Because a primary goal of this course is to teach professionalism, any academic dishonesty will be grounds for receiving a failing grade. Examples of academic dishonesty include (but are not limited to):
+Unlike most CSE classes, this course will encourage you to discuss any course material with each other and even make extensive use of outside sources including AI systems.  The main issues that you need to be careful about are that you provide appropriate credit (i.e., cite your sources and do not claim someone else's work as your own) and that you take any in-class quizzes or participation questions on your own without getting help from anyone else.  While it is okay to use previously written code or AI-generated code (with citations in either case), your project group is responsible for generating the bulk of new code that your use.
+
+Because a primary goal of this course is to teach professionalism, any academic dishonesty will be grounds for receiving a failing grade for the semester. Specific examples of academic dishonesty include (but are not limited to):
 + Copying another student’s quiz answers.
-+ Using code or text written by someone (or some AI) without attributing credit. If you take code from StackOverflow, provide a link to it in a comment; if you use ChatGPT note this.
++ Using code or text not written by yourself without attributing credit.
++ Paying someone else to write project code for you.
 + Providing false information to an instructor about matters related to the course.
 + Facilitating another student in any of these activities.
 
