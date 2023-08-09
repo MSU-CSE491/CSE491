@@ -7,14 +7,14 @@ layout: default
 
 ### Unit I: C++ Basics
 
-| Week | Date     | Discussion Topic           |
-|:----:|:--------:|----------------------------|
-| 1    | 8/28/23  | A review of 232 and 335 |
-|      | 8/30/23  | Tools: Compiler Features and Static Analysis |
-| 2    | 9/4/23   | NO CLASS |
-|      | 9/6/23   | C++ Core Guidelines |
-| 3    | 9/11/23  | Ranges and Views |
-|      | 9/13/23  | Deep Dive: Implementing std::string |
+| Week | Date     | Discussion Topic                    |
+|:----:|:--------:|-------------------------------------|
+| 1    | 8/28/23  | **A review of 232 and 335**             |
+|      | 8/30/23  | **Tools: Compiler Features and Static Analysis** <br> https://www.youtube.com/watch?v=i_wDa2AS_8w <br> https://www.youtube.com/watch?v=YNv_g6ceL0w <br> https://www.youtube.com/watch?v=Gwvn8ruzXT8
+| 2    | 9/4/23   | NO CLASS                            |
+|      | 9/6/23   | C++ Core Guidelines <br> https://www.youtube.com/watch?v=XkDEzfpdcSg |
+| 3    | 9/11/23  | Ranges and Views <br> https://www.youtube.com/watch?v=L0bhZp6HMDM <br> (*optional*) https://www.youtube.com/watch?v=qv29fo9sUjY |
+|      | 9/13/23  | Deep Dive: Implementing std::string <br> https://www.youtube.com/watch?v=kPR8h4-qZdk |
 
 ### Unit II: Writing Reliable Code
 
