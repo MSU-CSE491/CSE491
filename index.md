@@ -8,6 +8,8 @@
 | Credits    | 4 |
 | Textbook   | None |
 
+### [Schedule]
+
 ### Required Technology
 Students are expected to bring a laptop running a modern operating system (Windows, MacOS or Linux) to each class session.  This laptop must be capable of running a modern C++ compiler and have access to the web.
 
@@ -27,7 +29,6 @@ Grades will be based on:
 | **Quizzes** | 28 points (7 quizzes at 4 points each) |
 | **Blog** Entries | 12 points |
 | **Participation Questions** | 5 points |
-| --- | --- |
 | **TOTAL** | 100 points |
 
 You will need 90 of the 100 possible points to guarantee a 4.0, 85 points for 3.5, 80 points for 3.0, 75 points for 2.5, 70 points for 2.0, 65 points for 1.5, and 60 points for 1.0.

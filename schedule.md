@@ -1,3 +1,5 @@
+# Tentative schedule
+
 | Week | Date     | Unit       | Discussion Topic           | Pre-class material |
 |:----:|:--------:|------------|----------------------------|--------------------|
 | 1    | 8/28/23  | C++ Basics | A review of 232 and 335
