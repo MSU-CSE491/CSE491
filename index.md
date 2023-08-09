@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Secure and Efficient C++ Software Development
 ## Fall 2023
 
