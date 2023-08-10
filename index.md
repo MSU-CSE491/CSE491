@@ -17,7 +17,7 @@ layout: default
 | Office Hours |  *To be announced*        |
 | Credits      | 4                         |
 | Textbook     | None                      |
-| Web Site     | https://msu-cse491.github.io/CSE491/ |
+| Web Site     | [https://msu-cse491.github.io/CSE491/](https://msu-cse491.github.io/CSE491/) |
 
 ### Required Technology
 Students are expected to bring a laptop running a modern operating system (Windows, MacOS or Linux) to each class session.  This laptop must be capable of running a modern C++ compiler and have access to the web.
@@ -52,7 +52,7 @@ There will be eight quizzes that you need to pass by the end of the semester.  T
 You will need to write a blog entry over the course of the semester and act as a reviewer on three others.  For the entry you are writing, points will be allocated to the outline (1 point), the initial draft (1 point), and the final document (4 points). For the three reviews, you will receive one point for reviewing each draft (3 points total) and another point for reviewing each final entry (another 3 points total).  Overall the blog entries will be worth a total of 12 points.
 
 ### Participation Questions
-You will be expected to watch videos before each class session that cover much of the material for that session. During class we will discuss the material, do live coding, take quizzes, etc. In order to ensure that you watch the videos, we will ask you a multiple-choice question about them on at least 8 occasions. These questions will be easy if you watched the video, but impossible to answer confidently otherwise (e.g., “What was the example problem used throughout the video?”).  Each correct answer will earn you 1 point to a maximum of 5 points (so you can get 3 wrong and still get a perfect score).
+ During class we will discuss that session's material in addition to doing live coding, code review, quizzes, etc. In order to understand and be able to contribute to the discussion, you will be expected to watch videos before each class.  To ensure that you watch the videos, we will ask you a multiple-choice question about them on at least 8 occasions. These questions should be easy if you watched the video, but impossible to answer confidently otherwise (e.g., “Which of the following example problems was used throughout the video?”).  Each correct answer will earn you 1 point to a maximum of 5 points for the semester (so you can get 3 wrong and still get a perfect score).
 
 **A note about participation**: If you engage in conversation, you provide us with another source of information as to how well you are learning the material, and how much effort you are putting into the course. Let's have an active class! Class participation will never harm your grade; always ask any questions you may have about the material.
 
@@ -67,4 +67,4 @@ Because a primary goal of this course is to teach professionalism, any academic 
 + Facilitating another student in any of these activities.
 
 ## General Note
-The goal of this class is for you to learn how to effectively design and implement algorithms. If anything is coming in your way of that goal, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
+The goal of this class is for you to learn how to develop C++ code that is safe, efficient, and reliable. If anything is coming in your way of that goal, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
