@@ -23,7 +23,7 @@ layout: default
 | 4    | 9/18/23  | **Avoiding Undefined Behavior** <br> *Video:* [Back To Basics: Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) (62 min) |
 |      | 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* TO BE ADDED|
 | 5    | 9/25/23  | **Debugging your code** <br> *Video:* [Back To Basics: Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) (65 min) |
-|      | 9/27/23  | **Custom memory management and casting** <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) |
+|      | 9/27/23  | **Reliable Memory Management and Casting** <br> *Video:* [C++ Memory Management Part 1: Pointer Primer, new, delete, macros](https://www.youtube.com/watch?v=DuJxoTzrCLY) (14 min) <br> *Video:* [C++ Memory Management Part 2: Modern Pointers, shared, unique](https://www.youtube.com/watch?v=u_FEZDfBPk8) (23 min) <br> *Video:* [Back to Basics: Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) (45 min)|
 
 ### Unit III: Writing Generic Code
 
@@ -33,7 +33,7 @@ layout: default
 |      | 10/4/23  | Generic functions and Lambdas
 | 7    | 10/9/23  | Deep Dive: Smart Pointers
 |      | 10/11/23 | Tools: In-code documentation with Doxygen
-| 8    | 10/16/23 | Guest lecture from Bill
+| 8    | 10/16/23 | Guest lecture from Dr. Bill Punch
 |      | 10/18/23 | STATUS UPDATES
 
 ### Unit IV: Writing Efficient Code
@@ -41,10 +41,10 @@ layout: default
 | Week | Date     | Discussion Topic           |
 |:----:|:--------:|----------------------------|
 | 9    | 10/23/23 | NO CLASS
-|      | 10/25/23 | Measuring Efficiency
+|      | 10/25/23 | Measuring Efficiency and Profiling Code
 | 10   | 10/30/23 | Avoiding copies with views, spans, and move semantics
-|      | 11/1/23  | Compile-time execution
-| 11   | 11/6/23  | Tools: Profilers
+|      | 11/1/23  | Custom Memory Management <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min)
+| 11   | 11/6/23  | Compile-time execution
 |      | 11/8/23  | Meta-programming: building and using type traits
 
 ### Unit V: Advanced Topics
