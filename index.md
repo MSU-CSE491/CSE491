@@ -23,7 +23,7 @@ layout: default
 Students are expected to bring a laptop running a modern operating system (Windows, MacOS or Linux) to each class session.  This laptop must be capable of running a modern C++ compiler and have access to the web.
 
 ### Description
-Students will develop large C++ projects and gain expertise with the language. Topics include modern features of C++, effective use of the standard library, and developing custom libraries, with links to other areas of computer science. Emphasis will be placed on writing code that is secure, reliable code, efficient, and generic, including good memory management practices, avoiding undefined behavior, automating through testing, and up-to-date documentation. 
+Students will develop large C++ projects and gain expertise with the language. Topics include modern features of C++, effective use of the standard library, and developing custom libraries, with links to other areas of computer science. Emphasis will be placed on writing code that is secure, reliable, efficient, and generic, including good memory management practices, avoiding undefined behavior, automating through testing, and up-to-date documentation. 
 
 ### Pre-requisites
 Understanding of C++ basics (as taught in CSE 232 and CSE 335), completion of all 300-level CSE requirements and at least two other 400-level CSE courses.
@@ -37,7 +37,7 @@ Grades will be based on:
 | **Project** | 45 points |
 | **Weekly Updates** | 12 points |
 | **Quizzes** | 24 points (4 quizzes at 6 points each) |
-| **Blog** Entries | 14 points |
+| **Blog Entries** | 14 points |
 | **Participation Questions** | 5 points |
 | **TOTAL** | 100 points |
 
@@ -59,7 +59,7 @@ Some reports might have extra specific questions that you will be told at least 
 There will be five quizzes that you must pass by the end of the semester.  The first quiz will be one “C++ Pre-Requisites” and will not be worth points, but must be passed before you can take any of the other quizzes. The remaining four quizzes will each be worth 6 points toward your final grade.  Quizzes will have a high threshold for passing, but will have multiple versions so you will be able to take each quiz at least twice with only the best performance counting.
 
 ### [Blog Entries](blog.html)
-You will need to write a blog entry over the course of the semester (worth 8 points) and act as a reviewer on three others (worth 6 points) for a total of 14 points.  As a breakdown of these points: For the entry you are writing, points will be allocated to the outline (1 point), the initial draft (2 point), and the final document (5 points). For the three reviews, you will receive one point for reviewing each draft (3 points total) and another point for reviewing each final entry (another 3 points total).
+You will need to write a blog entry over the course of the semester (worth 8 points) and act as a reviewer on three others (worth 6 points) for a total of 14 points.  As a breakdown of these points: For the entry you are writing, points will be allocated to the proposal (1 point), the initial draft (2 point), and the final document (5 points). For the three reviews, you will receive one point for reviewing each draft (3 points total) and another point for reviewing each final entry (another 3 points total).
 
 ### Participation Questions
  During class we will discuss that session's material in addition to doing live coding, code review, quizzes, etc. In order to understand and be able to contribute to the discussion, you will be expected to watch videos before each class.  To ensure that you watch the videos, we will ask you a multiple-choice question about them on at least 8 occasions. These questions should be easy if you watched the video, but impossible to answer confidently otherwise (e.g., “Which of the following example problems was used throughout the video?”).  Each correct answer will earn you 1 point to a maximum of 5 points for the semester (so you can get 3 wrong and still get a perfect score).
