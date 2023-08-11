@@ -21,7 +21,7 @@ layout: default
 | Week | Date     | Discussion Topic           |
 |:----:|:--------:|----------------------------|
 | 4    | 9/18/23  | **Avoiding Undefined Behavior** <br> *Video:* [Back To Basics: Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) (62 min) |
-|      | 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* TO BE ADDED|
+|      | 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* [Back to Basics: C++ Testing](https://www.youtube.com/watch?v=SAM4rWaIvUQ) (62 min) |
 | 5    | 9/25/23  | **Debugging your code** <br> *Video:* [Back To Basics: Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) (65 min) |
 |      | 9/27/23  | **Reliable Memory Management and Casting** <br> *Video:* [C++ Memory Management Part 1: Pointer Primer, new, delete, macros](https://www.youtube.com/watch?v=DuJxoTzrCLY) (14 min) <br> *Video:* [C++ Memory Management Part 2: Modern Pointers, shared, unique](https://www.youtube.com/watch?v=u_FEZDfBPk8) (23 min) <br> *Video:* [Back to Basics: Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) (45 min)|
 
