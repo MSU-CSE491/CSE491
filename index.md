@@ -37,7 +37,7 @@ Grades will be based on:
 | **Project** | 45 points |
 | **Weekly Updates** | 12 points |
 | **Quizzes** | 24 points (4 quizzes at 6 points each) |
-| **Blog** Entries | 14 points |
+| **Blog Entries** | 14 points |
 | **Participation Questions** | 5 points |
 | **TOTAL** | 100 points |
 
