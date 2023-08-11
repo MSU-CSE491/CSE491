@@ -12,11 +12,11 @@ Your blog entry will be worth a total of *8 points*, with one point allocated to
 
 The options are:
 
-+ **A C++ Tutorial:** Pick an advanced feature in C++ that interests you and write a tutorial to teach someone what it is and how to use it.  You should provide a clear and intuitive explanation and provide a range of examples to help the reader understand the possible usages.  When relevant, you should also compare to some alternative techniques from solving the same problem, and explain when the feature you selected would be proper choice to use.
++ **A C++ Tutorial:** Pick an advanced feature in C++ that interests you and write a tutorial to teach someone what it is and how to use it.  You should provide a clear and intuitive explanation and provide a range of examples to help the reader understand the possible usages.  When relevant, you should also compare to some alternative techniques for solving the same problem, and explain when the feature you selected would be the proper choice to use.
 
 + **An Efficiency Comparison:** Perform an in-depth comparison of two different data structures or algorithms from the standard library (or other popular library) to identify the conditions where each is the proper choice.  Ideally you should be able to explain the tradeoffs that a programmer needs to consider and provide advice on best usage.
 
-+ **A Library Review:** There are many popular C++ library (and may other good ones that aren't yet popular).  Pick one of these and write a review of it.  You should make sure to talk about how hard it is to download and compile the library, your experience trying to get the functions or classes working, how hard it is to integrate into your code, and if/when you would recommend its use.  Tips for a new user are also always appreciated.
++ **A Library Review:** There are many popular C++ libraries (and may other good ones that aren't yet popular).  Pick one of these and write a review of it.  You should make sure to talk about how hard it is to download and compile the library, your experience trying to get the functions or classes working, how hard it is to integrate into your code, and if/when you would recommend its use.  Tips for a new user are also always appreciated.
 
 + **A ChatGPT Code Review:** Use ChatGPT (or some similar AI system) to generate code for a medium size project.  The project should be large enough that you need to go back and forth with the system a number of times to produce the final product.  Now, do a careful code review about what about this code worked, what didn't, and how the code could have been better written in regards to style, efficiency, modularity, and readability.  Provide any other comments that you may have about this experience.
 
