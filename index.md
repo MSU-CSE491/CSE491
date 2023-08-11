@@ -44,7 +44,7 @@ Grades will be based on:
 Each of these area are important: If you get fewer than half the points in any single category, that is grounds for receiving a zero as a final course grade. You will need 90 of the 100 possible points to guarantee a 4.0, 85 points for 3.5, 80 points for 3.0, 75 points for 2.5, 70 points for 2.0, 65 points for 1.5, and 60 points for 1.0.
 
 ### [Project](projects.html)
-You will be placed in a group to work on a semester-long project.  You may earn up to 55 points this way, based on both consistent progress and the quality of the final product.  Your final project grade will be based on three main factors: Functionality (Meeting the project goals), Code Quality (Consistent style, documentation, function modularity, file layout, test coverage, etc.), and Individual Contributions (Teammate ratings, info in weekly progress reports, and git logs).
+You will be placed in a group to work on a semester-long project.  You may earn up to 45 points this way, based on both consistent progress and the quality of the final product.  Your final project grade will be based on three main factors: Functionality (Meeting the project goals), Code Quality (Consistent style, documentation, function modularity, file layout, test coverage, etc.), and Individual Contributions (Teammate ratings, info in weekly progress reports, and git logs).
 
 ### Weekly updates
 Each Friday before midnight (starting in week 2) students will be expect to turn in a weekly progress reports.  Each report must contain four sections:
@@ -52,6 +52,7 @@ Each Friday before midnight (starting in week 2) students will be expect to turn
 + What do you plan to work on next week?
 + How is the overall project going for the entire group?
 + Are you facing any challenges with the project?
+
 Some reports might have extra specific questions that you will be told at least 48 hours ahead of time. Reports are worth 1 point each and will be graded on a pass/fail basis (honest attempts will be given a "pass" as long as problems are corrected in future reports).  Overall you will be expected to turn in 14 of these reports, but a maximum of 12 points will count toward your final grade.
 
 ### Quizzes
