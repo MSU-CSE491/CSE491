@@ -5,7 +5,7 @@ layout: default
 
 # Tentative schedule
 
-### Unit I: C++ Basics
+### Unit I: C++ Fundamentals
 
 | Week | Date     | Discussion Topic                    |
 |:----:|:--------:|-------------------------------------|
