@@ -23,6 +23,8 @@ This course is divided up into six units, each of which is two to four weeks lon
 
 ## Unit II: Writing Reliable Code
 
+| Date     | Discussion Topic                    |
+|:--------:|-------------------------------------|
 | **Week 4** | |
 | 9/18/23  | **Avoiding Undefined Behavior** <br> *Video:* [Back To Basics: Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) (62 min) |
 | 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* [Back to Basics: C++ Testing](https://www..youtube.com/watch?v=SAM4rWaIvUQ) (62 min) |
@@ -32,46 +34,52 @@ This course is divided up into six units, each of which is two to four weeks lon
 
 ## Unit III: Writing Generic Code
 
-### Week 6
-
 | Date     | Discussion Topic           |
 |:--------:|----------------------------|
+| **Week 6** | |
 | 10/2/23  | Template Rules
 | 10/4/23  | Template Specialization and Variadic templates
-
-### Week 7
-
+| **Week 7** | |
 | 10/9/23  | Lambdas
 | 10/11/23 | Deep Dive: Smart Pointers
 
 ## Unit IV: Writing Efficient Code
 
-| Week | Date     | Discussion Topic           |
-|:----:|:--------:|----------------------------|
-| 8    | 10/16/23 | Concurrency (Guest lecture from Dr. Bill Punch)
-|      | 10/18/23 | STATUS UPDATES
-| 9    | 10/23/23 | NO CLASS
-|      | 10/25/23 | Measuring Efficiency + Profiling Code
-| 10   | 10/30/23 | Avoiding copies with views, spans, and move semantics
-|      | 11/1/23  | Custom Memory Management <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min)
-| 11   | 11/6/23  | Compile-time execution
-|      | 11/8/23  | Meta-programming: building and using type traits
+| Date     | Discussion Topic           |
+|:--------:|----------------------------|
+| **Week 8** | |
+| 10/16/23 | Concurrency (Guest lecture from Dr. Bill Punch)
+| 10/18/23 | STATUS UPDATES
+| **Week 9** | |
+| 10/23/23 | NO CLASS
+| 10/25/23 | Measuring Efficiency + Profiling Code
+| **Week 10** | |
+| 10/30/23 | Avoiding copies with views, spans, and move semantics
+| 11/1/23  | Custom Memory Management <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min)
+| **Week 11** | |
+| 11/6/23  | Compile-time execution
+| 11/8/23  | Meta-programming: building and using type traits
 
 ## Unit V: Advanced Topics
 
-| Week | Date     | Discussion Topic           |
-|:----:|:--------:|----------------------------|
-| 12   | 11/13/23 | Deep Dive: Bit Sets
-|      | 11/15/23 | Advanced template use (CRTP, Concepts, etc)
-| 13   | 11/20/23 | Compiling for the Web with Emscripten
-|      | 11/22/23 | Understanding Code Licenses
-| 14   | 11/27/23 | Attributes + User-defined Literals
-|      | 11/29/23 | Missing Topics: A whirlwind tour of additional uncovered material
+| Date     | Discussion Topic           |
+|:--------:|----------------------------|
+| **Week 12** | |
+| 11/13/23 | Deep Dive: Bit Sets
+| 11/15/23 | Advanced template use (CRTP, Concepts, etc)
+| **Week 13** | |
+| 11/20/23 | Compiling for the Web with Emscripten
+| 11/22/23 | Understanding Code Licenses
+| **Week 14** | |
+| 11/27/23 | Attributes + User-defined Literals
+| 11/29/23 | Missing Topics: A whirlwind tour of additional uncovered material
 
 ## Unit VI: Wrap-up
 
-| Week | Date     | Discussion Topic           |
-|:----:|:--------:|----------------------------|
-| 15   | 12/4/23  | Catchup / Special Topics
-|      | 12/6/23  | FINAL PRESENTATIONS
-| Finals | 12/11/23 | FINAL PRESENTATIONS
+| Date     | Discussion Topic           |
+|:--------:|----------------------------|
+| **Week 15** | |
+| 12/4/23  | Catchup / Special Topics
+| 12/6/23  | FINAL PRESENTATIONS
+| **Finals** | |
+| 12/11/23 | FINAL PRESENTATIONS

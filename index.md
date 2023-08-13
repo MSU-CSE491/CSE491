@@ -50,8 +50,8 @@ You will be placed in a group to work on a semester-long project.  You may earn 
 Each Friday before midnight (starting in week 2) students will be expect to turn in a weekly progress reports.  Each report must contain four sections:
 + What did you work on this past week?
 + What do you plan to work on next week?
-+ How is the overall project going for the entire group?
 + Are you facing any challenges with the project?
++ How is the overall project going for the entire group?
 
 Some reports might have extra specific questions that you will be told at least 48 hours ahead of time. Reports are worth 1 point each and will be graded on a pass/fail basis (honest attempts will be given a "pass" as long as problems are corrected in future reports).  Overall you will be expected to turn in 14 of these reports, but a maximum of 12 points will count toward your final grade.
 
