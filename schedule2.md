@@ -9,33 +9,24 @@ This course is divided up into six units, each of which is two to four weeks lon
 
 ## Unit I: C++ Fundamentals
 
-### Week 1
-
 | Date     | Discussion Topic                    |
 |:--------:|-------------------------------------|
+| **Week 1** | |
 | 8/28/23  | **A review of 232 and 335**         |
 | 8/30/23  | **Tools: Compiler Features and Static Analysis** <br> *Video:* [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w) (16 min) <br> *Video*: [Software Development with C++: clang-format](https://www.youtube.com/watch?v=YNv_g6ceL0w) (9 min) <br> *Video*: [Software Development with C++: Compiler Optimization Levels](https://www.youtube.com/watch?v=Gwvn8ruzXT8) (13 min)
-
-### Week 2
-
+| **Week 2** | |
 | 9/4/23   | **NO CLASS** (Labor Day)            |
 | 9/6/23   | **C++ Core Guidelines** <br> *Video:* [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?v=XkDEzfpdcSg) (62 min) |
-
-
-### Week 3
-
+| **Week 3** | |
 | 9/11/23  | **Ranges and Views** <br> *Video:* [C++20 Ranges in Practice](https://www.youtube.com/watch?v=L0bhZp6HMDM) (62 min) <br> (*optional*) [C++ Standard Views](https://www.youtube.com/watch?v=qv29fo9sUjY) (96 min) |
 | 9/13/23  | **Deep Dive: Implementing `std::string`** + **Using Doxygen** <br> *Video:* [The strange details of std::string at Facebook](https://www.youtube.com/watch?v=kPR8h4-qZdk) (31 min) <br> *Video:* [Doxygen Basics](https://www.youtube.com/watch?v=TtRn3HsOm1s) (35 min) |
 
 ## Unit II: Writing Reliable Code
 
-### Week 4
-
+| **Week 4** | |
 | 9/18/23  | **Avoiding Undefined Behavior** <br> *Video:* [Back To Basics: Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) (62 min) |
 | 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* [Back to Basics: C++ Testing](https://www..youtube.com/watch?v=SAM4rWaIvUQ) (62 min) |
-
-### Week 5
-
+| **Week 5** | |
 | 9/25/23  | **Debugging your code** <br> *Video:* [Back To Basics: Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) (65 min) |
 | 9/27/23  | **Memory Management** + **Casting** <br> *Video:* [C++ Memory Management Part 1: Pointer Primer, new, delete, macros](https://www.youtube.com/watch?v=DuJxoTzrCLY) (14 min) <br> *Video:* [C++ Memory Management Part 2: Modern Pointers, shared, unique](https://www.youtube.com/watch?v=u_FEZDfBPk8) (23 min) <br> *Video:* [Back to Basics: Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) (45 min)|
 
