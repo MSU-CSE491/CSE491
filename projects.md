@@ -27,13 +27,13 @@ You will be getting regular in-class advice and feedback on these topics through
 
 While the larger portion of your project grade will be based on the overall group project, it is important that each group member provides a meaningful contribution.  Based in part on ratings by your teammates (and audited by the instructors using progress reports and git logs, if needed) you will receive a qualification for how effective of a contributor you were to the group project.
 
-+ *Exemplary Contributions*: You have showcased exceptional efforts and went above and beyond the project requirements. You have not only fulfilled their responsibilities but have also added significant value to the group's work.  You will receive the full five points from contributions AND up to an additional five points to make up for lost points in other areas of the project.  This rating will typically be given to only one member of a project and is most relevant when a project has failed to meet its other goals.
++ *Exemplary Contributions*: You have showcased exceptional efforts and went above and beyond the project requirements. You have not only fulfilled their responsibilities but have also added significant value to the group's work. You will receive the full five points from contributions AND up to an additional five points back replacing lost points in other areas of the project.  This rating will be given sparingly.
 
 + *Proficient Contributions*: You have met all of the expectations and delivered your portion of the project.  You worked diligently on the project throughout the semester and were a reliable member of the team.  You will receive the full five points for this section.
 
-+ *Limited Contributions*: While this person has participated and contributed to the project, they haven't fully met the group's expectations. They might have missed some tasks or not been as involved in the discussions or implementation.
++ *Limited Contributions*: While this person has participated and contributed to the project, they have done so inconsistently and haven't fully met the group's expectations. They might have missed some tasks or not been substantially involved in the discussions or implementation.  No points will be giving for individual contributions, but the student will still receive other project points.
 
-+ *Minimal Contributions*: This denotes a member who has not actively participated in the project. Their contribution is negligible or missing, and their lack of involvement has impacted the group's progress.
++ *Minimal Contributions*: This denotes a member who has not actively participated in the project. Their contribution is negligible or missing, and their lack of involvement has hampered the group's overall progress.  Not only will no points be given out for individual contributions, but the overall project grade will be substantially reduced.
 
 
 # Project Topics
