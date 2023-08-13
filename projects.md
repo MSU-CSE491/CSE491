@@ -15,10 +15,10 @@ At the beginning of the semester we will develop a set of ambitious goals for ea
 ## 2. Code Quality (20 points)
 
 While the ultimate functionality of your code is clearly important, being able to write code that is reliable, reusable and easy to understand by other programmers is also a high level goal for this course.  Code quality will be judged based on:
-+ *code style*: have you chosen a style that is informative?  Are you consistent in your style?
-+ *code accessibility*: is your code easy for others to read and understand based on your maintenance of documentation, code comments, and a clean layout with short clear functions?
-+ *code modularity*: Have you built useful functions and classes and organized with a meaningful file and directory structure? 
-+ *code reliability* Do you have thorough unit test coverage with effective use of in-code asserts and/or other error checking, and do you avoid undefined behaviors?
++ **_Code Style_**: Have you chosen a style that is informative?  Are you consistent in your style?
++ **_Code Accessibility_**: Is your code easy for others to read and understand based on your maintenance of documentation, code comments, and a clean layout with short clear functions?
++ **_Code Modularity_**: Have you built useful functions and classes that are organized with a meaningful file and directory structure? 
++ **_Code Reliability_** Do you have thorough unit test coverage with effective use of in-code asserts and/or other error checking, and do you avoid undefined behaviors?
 
 You will be getting regular in-class advice and feedback on these topics throughout the semester.
 
