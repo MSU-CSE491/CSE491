@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Quizzes
 
 There will be a total of five quizzes that you must pass by the end of the semester to earn all points.
