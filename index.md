@@ -46,7 +46,7 @@ Each of these area are important: If you get fewer than half the points in any s
 ### [Project](projects.html)
 You will be placed in a group to work on a semester-long project.  You may earn up to 45 points this way, based on both consistent progress and the quality of the final product.  Your final project grade will be based on three main factors: Functionality (Meeting the project goals), Code Quality (Consistent style, documentation, function modularity, file layout, test coverage, etc.), and Individual Contributions (Teammate ratings, info in weekly progress reports, and git logs).
 
-### Weekly updates
+### [Weekly Updates](updates.html)
 Each Friday before midnight (starting in week 2) students will be expect to turn in a weekly progress reports.  Each report must contain four sections:
 + What did you work on this past week?
 + What do you plan to work on next week?
@@ -55,7 +55,7 @@ Each Friday before midnight (starting in week 2) students will be expect to turn
 
 Some reports might have extra specific questions that you will be told at least 48 hours ahead of time. Reports are worth 1 point each and will be graded on a pass/fail basis (honest attempts will be given a "pass" as long as problems are corrected in future reports).  Overall you will be expected to turn in 14 of these reports, but a maximum of 12 points will count toward your final grade.
 
-### Quizzes
+### [Quizzes](quizzes.html)
 There will be five quizzes that you must pass by the end of the semester.  The first quiz will be one “C++ Pre-Requisites” and will not be worth points, but must be passed before you can take any of the other quizzes. The remaining four quizzes will each be worth 6 points toward your final grade.  Quizzes will have a high threshold for passing, but will have multiple versions so you will be able to take each quiz at least twice with only the best performance counting.
 
 ### [Blog Entries](blog.html)
