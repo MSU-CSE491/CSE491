@@ -25,3 +25,9 @@ For the pre-requisite quiz, we require a 8/10 to pass and continue on to the oth
 | 8 | 4 |
 | 7 | 2 |
 | 6 or fewer | none |
+
+## Schedule
+
+Quizzes will be released by the end of the unit covering the material (the pre-requisite quiz will be available starting on the first week of the semester).
+
+We will provide at least one class session most weeks, typically during the Wednesday session, where we will allow students to take a quizzes.  Overall students will have at least 12 occasions to take the quizzes, giving many opportunities for re-takes if needed.
