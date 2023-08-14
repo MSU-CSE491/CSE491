@@ -18,13 +18,12 @@ Quizzes will generally be 10 questions long and structured using a "mastery mode
 
 For the pre-requisite quiz, we require a 8/10 to pass and continue on to the other quizzes.  For each of the others, a 9/10 will be need to earn all six points.  Each additional question you get wrong will deduct two points from your total. 
 
-| Correct Responses | Points Earned |
-| --- | --- |
-| 10 (of 10) | 6 points (of 6) |
-| 9 | 6 |
-| 8 | 4 |
-| 7 | 2 |
-| 6 or fewer | none |
+| Correct Responses | Points Earned | Status |
+| --- | --- | --- |
+| 9 or more (of 10) | 6 (of 6) | Mastered |
+| 8 | 4 | Proficient |
+| 7 | 2 | Competent |
+| 6 or fewer | none | Still Learning |
 
 ## Schedule
 
