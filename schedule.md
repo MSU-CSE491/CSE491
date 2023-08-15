@@ -18,7 +18,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 9/4/23   | **NO CLASS** (Labor Day)            |
 | 9/6/23   | **C++ Core Guidelines** <br> *Video:* [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?v=XkDEzfpdcSg) (62 min) |
 | **Week 3** | |
-| 9/11/23  | **Ranges and Views** <br> *Video:* [C++20 Ranges in Practice](https://www.youtube.com/watch?v=L0bhZp6HMDM) (62 min) <br> (*optional*) [C++ Standard Views](https://www.youtube.com/watch?v=qv29fo9sUjY) (96 min) |
+| 9/11/23  | **Ranges and Views** <br> *Video:* [C++20 Ranges in Practice](https://www.youtube.com/watch?v=L0bhZp6HMDM) (62 min) |
 | 9/13/23  | **Deep Dive: Implementing `std::string`** + **Using Doxygen** <br> *Video:* [The strange details of std::string at Facebook](https://www.youtube.com/watch?v=kPR8h4-qZdk) (31 min) <br> *Video:* [Doxygen Basics](https://www.youtube.com/watch?v=TtRn3HsOm1s) (35 min) |
 
 ## Unit II: Writing Reliable Code
