@@ -35,9 +35,9 @@ While the larger portion of your project grade will be based on the overall grou
 
 Additionally, we have two other categories that will be given out sparingly.
 
-+ **_Resilient Contributor_**: You have showcased exceptional efforts, going above and beyond base expectations to enure that your group turns in a working project. You will receive the full five points from contributions AND may recoup some points back (typically 5) from the previous to grading factors, replacing lost points in other areas of the project.  This rating will typically be given to a student who put forth significant extra effort to make up for another group member's failure to meet expectations.
++ **_Resilient Contributor_**: You have showcased exceptional efforts, going above and beyond base expectations to enure that your group turns in a working project. You will receive the full five points from contributions AND may recoup some points back (typically 5) from the previous two grading factors, replacing lost points in other areas of the project.  This rating will typically be given to a student who put forth significant extra effort to make up for another group member's failure to meet expectations.
 
-+ **_Exemplary Contributor+**: You went substantially beyond project requirements, turning in code that is impressive on all levels.  You will receive the full 45 points on the project, but this qualification also recognizes the incredible effort that you put forth.
++ **_Exemplary Contributor_**: You went substantially beyond project requirements, turning in code that is impressive on all levels.  You will receive the full 45 points on the project, but this qualification also recognizes the incredible effort that you put forth.
 
 
 # Project Topics
