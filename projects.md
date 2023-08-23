@@ -49,7 +49,7 @@ Once groups are formed, members will devise a working agreement with a plan for 
 
 # Project Topics
 
-Each group will work on a component of a larger, modular agent-based system.  Depending on which components are chosen by teams, we will be producing either a game, a scientific simulation, or both.  Individual components will require different sets of skills.
+In order to provide a real-world experience for your project, the course as a whole will be working on a single, over-arching software framework.  Specifically, each project group will work on a component of a larger, modular agent-based system.  Different sets of modules will interact through an API that we establish as a group, making some very different executables possible.  Depending on which components are chosen by teams, we will be producing either games, scientific simulations, or (more likely) both.  Individual components will require different sets of skills and ideally provide students with an experience that lines up with their skill set and interests.
 
 Each executable will be composed of at least three modules:
 1. A **World**, which implements the environment where the agents will be interactions.
@@ -67,14 +67,14 @@ World modules must implement the mechanisms of interactions between agents and t
 + A world that handles a many types of agent-agent interactions. For example, a wizard arena where agents cast spells at one another that have rules for how they interact. A challenge here would be balancing the different types of interactions an making sure that all of the combinations are handled appropriately and efficiently.
 + A real world scientific simulator environment.  For example, a traffic simulator to analyze travel time, or an ecology simulator to understand biological system stability.  A challenge here would be learning enough about the real-world systems for the simulation to be accurate.
 
-The above examples illustrate types of challenges groups could tackle, but you should skin them however you want.  A D\&D-style dungeon?  A puzzle game?  A military tactics simulator? Space exploration? Any style is okay, although it must be agent-based and we do recommend that you don't make the world overly complicated.
+The above examples illustrate types of challenges groups could tackle, but you should theme them however you want.  A D\&D-style dungeon?  A puzzle game?  A military tactics simulator? Space exploration? Any style is okay, although it must be agent-based.  We also recommend that you do not make the world overly convoluted given the relatively short duration of this project.
 
 ## Autonomous Agent Modules
 
 The above worlds all have agents moving through them.  These can be in the form of players (see next section) or those agents can be autonomous.  Some groups will be building capabilities for autonomous agents.  Some possible modules for autonomous agents include:
 
 + Manual AI that must be coded in C++ for a given game, but comes with a large toolbox of pre-defined behaviors for things like finding the shortest path, intercepting another agent, patrolling a given area, etc.  It should be a non-trivial set of available behaviors that are designed in coordination with the needs of the world teams.
-+ Dynamic / Programable (Interpreter).  In this case you wouldn't build all of the behavior tools yourself, instead you would write a language to let the end-user do so more easily.  The world would provide interaction capabilities used to generate the agent from a config file.
++ Dynamic / Programable (Interpreter).  In this case you wouldn't build all of the behavior tools yourself, instead you would write a language to let the end-user do so more easily.  The world would specify the methods by which agents can interact with it, and these would be command in your language.  Your module would be able to load a config file and convert it into an agent.
 + Machine Learning AI - this would be an AI system that is trained in the given world type.  The underlying representation can be whichever one you are most interested in or familiar with, such as neural networks, evolved agents, etc.  One challenges associated with this project type is that you will likely want to make use of an external library that you would need to find and learn.
 
 ## Interface Modules
@@ -83,7 +83,7 @@ Interface modules provide mechanisms for the system user to interact with or at 
 
 + A 3D first-person interface to control an agent.  Such a project would require you to learn an external 3D graphics library in C++, such as Open-GL.
 + A web-interface to control an agent.  While this project would probably focus more on a top-down view of the world, it would be fully accessible on the web.  This project would require you to learn a C++-to-WebAssembly compiler like Emscripten.
-+ A network-based interface.  This project would allow a user to control an agent from over a network, and ideally allow many different users to all interact with the same world.  Again, it would require students to identify and learn an external networking library.
++ A network-based interface.  This project would allow a user to control an agent from over a network, and ideally allow many different users to all interact with the same world.  It would require students to identify and learn an external networking library, and pay attention to network security.
 + A data-collection and analysis module.  This project wouldn't build an interface to an agent, but it would collect substantial information from a run.  For example, it might track the density of where different types of agents spend their time, or catalog the interactions among agents.
 
 Other types of user-interfaces could also be available and can be proposed by students.
