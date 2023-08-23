@@ -64,12 +64,12 @@ Each of the eight groups will work on one Module.  Ideally we will aim have at l
 
 World modules must implement the mechanisms of interactions between agents and the world or agents and each other, as well as any background activity of the world.  Some possible types of world modules include:
 
-+ A world where lots of actions happen in the background and need to be processed efficiently.  For example, a resource acquisition game with forests growing, animal herds wandering around, or seasons changing.  May types of systems could have significant background events.
++ A world where lots of actions happen in the background and need to be processed efficiently.  For example, a resource acquisition game with forests growing, animal herds wandering around, or seasons changing.  Many types of systems could have significant background events.
 + A world where player actions may have substantial secondary effects that need to be continuously monitored.  For example, in a game like https://splix.io/, agents leave a trail behind them and they system must identify closed loops or players braking each other's trails.  Many more complicated changes due to player actions are also possible.  Keeping such a system running in real-time is critical for fun game play.
-+ A world that handles a many types of agent-agent interactions. For example, a wizard arena where agents cast spells at one another that have rules for how they interact. A challenge here would be balancing the different types of interactions an making sure that all of the combinations are handled appropriately and efficiently.
++ A world that handles many types of agent-agent interactions. For example, a wizard arena where agents cast spells at one another that have rules for how they interact. A challenge here would be balancing the different types of interactions an making sure that all of the combinations are handled appropriately and efficiently.
 + A real world scientific simulator environment.  For example, a traffic simulator to analyze travel time, or an ecology simulator to understand biological system stability.  A challenge here would be learning enough about the real-world systems for the simulation to be accurate.
 
-The above examples illustrate types of challenges groups could tackle, but you should theme them however you want.  A D\&D-style dungeon?  A puzzle game?  A military tactics simulator? Space exploration? Any style is okay, although it must be agent-based.  We also recommend that you do not make the world overly convoluted given the relatively short duration of this project.
+The above examples illustrate types of challenges groups could tackle, but you should theme them however you want.  A D&D-style dungeon?  A puzzle game?  A military tactics simulator? Space exploration? Any style is okay, although it must be agent-based.  We also recommend that you do not make the world overly convoluted given the relatively short duration of this project.
 
 ## Autonomous Agent Modules
 
@@ -77,7 +77,7 @@ The above worlds all have agents moving through them.  These can be in the form 
 
 + Manual AI that must be coded in C++ for a given game, but comes with a large toolbox of pre-defined behaviors for things like finding the shortest path, intercepting another agent, patrolling a given area, etc.  It should be a non-trivial set of available behaviors that are designed in coordination with the needs of the world teams.
 + Dynamic / Programmable (Interpreter).  In this case you wouldn't build all of the behavior tools yourself, instead you would write a language to let the end-user do so more easily.  The world would specify the methods by which agents can interact with it, and these would be commands in your language.  Your module would be able to load a config file and convert it into an agent.
-+ Machine Learning AI - this would be an AI system that is trained in the given world type.  The underlying representation can be whichever one you are most interested in or familiar with, such as neural networks, evolved agents, etc.  One challenges associated with this project type is that you will likely want to make use of an external library that you would need to find and learn.
++ Machine Learning AI - this would be an AI system that is trained in the given world type.  The underlying representation can be whichever one you are most interested in or familiar with, such as neural networks, evolved agents, etc.  One challenge associated with this project type is that you will likely want to make use of an external library that you would need to find and learn.
 
 ## Interface Modules
 
