@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Team Agreement for [Project Name]
 
 **Date**: [Insert Date]
