@@ -10,7 +10,7 @@ Your final grade on the project will be based on three factors:
 
 ## 1. Functionality (20 points)
 
-Early in the semester we will develop a set of ambitious goals for each project.  You will earn points based on how well you meet these goals, with a series of milestones over the course of the semester. In some circumstances these goals may be adjusted based on revised information and any changes that we may need to introduce to your project.  The instructors will be in regular communication about your progress and you will be heavily involved in any such changes.
+Early in the semester we will develop a set of ambitious goals for your project.  You will earn points based on how well you meet these goals, with a series of milestones over the course of the semester. In some circumstances these goals may be adjusted based on revised information and any changes that we may need to introduce to your project.  The instructors will be in regular communication about your progress and you will be heavily involved in any such changes.
 
 ## 2. Code Quality (20 points)
 
@@ -25,7 +25,7 @@ You will be getting regular in-class advice and feedback on these topics through
 
 ## 3. Individual Contributions (5 points)
 
-While the larger portion of your project grade will be based on the overall group project, it is important that each group member provides a meaningful contribution.  Based in part on ratings by your teammates (and audited by the instructors using progress reports and git logs, if needed) you will receive a qualification for how effective of a contributor you were to the group project.
+While the larger portion of your project grade will be based on the overall group project, it is important that each group member provides a meaningful contribution.  Based in part on ratings by your teammates (and audited by the instructors using progress reports, git logs, and the work agreement if needed) you will receive a qualification for how effective of a contributor you were to the group project.
 
 + **_Proficient Contributor_**: You have met all of the expectations and delivered your portion of the project.  You worked diligently on the project throughout the semester and were a reliable member of the team.  You will receive the full five points for this section.
 
@@ -84,7 +84,6 @@ Other types of user-interfaces could also be available and can be proposed by st
 
 # Project Groups
 
-You will be in a group of three to four people to work on one of the above modules as a semester-long project.
+You will be in a group of three to four people to work on one of the above modules as a semester-long project.  Students will have the opportunity to discuss potential project ideas with each other and propose groups to the instructors.  The instructors will also help students form groups as needed, trying to match appropriate skill combinations and interests.
 
-
-*Under Construction*
+Once groups are formed, members will devise a working agreement with a plan for how they will all contribute to the project and support one another.  Here is an [example agreement](example_agreement.html).
