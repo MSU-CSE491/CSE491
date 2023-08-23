@@ -49,7 +49,9 @@ Once groups are formed, members will devise a working agreement with a plan for 
 
 # Project Topics
 
-In order to provide a real-world experience for your project, the course as a whole will be working on a single, over-arching software framework.  Specifically, each project group will work on a component of a larger, modular agent-based system.  Different sets of modules will interact through an API that we establish as a group, making some very different executables possible.  Depending on which components are chosen by teams, we will be producing either games, scientific simulations, or (more likely) both.  Individual components will require different sets of skills and ideally provide students with an experience that lines up with their skill set and interests.
+In order to provide a real-world experience for your project, we will collaboratively produce a single, over-arching software framework.  Specifically, each group will work on a single module within a larger, agent-based system.  Each component you build will serve as a piece of a larger puzzle.  Sets of modules will interact through an API that we establish as a group, allowing for some very different executables, depending one which modules are chosen for use. By the end of our course, our goal is to have a functioning system where each module, be it a world, agent, or interface, seamlessly integrates with the others. Picture a bustling digital city where agents go about their tasks, influenced by the world they reside in and controlled or observed via diverse interfaces.
+
+Depending on which components are chosen by teams, we will be producing either games, scientific simulations, or both.  Individual components will require different sets of skills and ideally provide students with an experience that lines up with their skill set and interests.
 
 Each executable will be composed of at least three modules:
 1. A **World**, which implements the environment where the agents will be interactions.
@@ -74,7 +76,7 @@ The above examples illustrate types of challenges groups could tackle, but you s
 The above worlds all have agents moving through them.  These can be in the form of players (see next section) or those agents can be autonomous.  Some groups will be building capabilities for autonomous agents.  Some possible modules for autonomous agents include:
 
 + Manual AI that must be coded in C++ for a given game, but comes with a large toolbox of pre-defined behaviors for things like finding the shortest path, intercepting another agent, patrolling a given area, etc.  It should be a non-trivial set of available behaviors that are designed in coordination with the needs of the world teams.
-+ Dynamic / Programable (Interpreter).  In this case you wouldn't build all of the behavior tools yourself, instead you would write a language to let the end-user do so more easily.  The world would specify the methods by which agents can interact with it, and these would be command in your language.  Your module would be able to load a config file and convert it into an agent.
++ Dynamic / Programmable (Interpreter).  In this case you wouldn't build all of the behavior tools yourself, instead you would write a language to let the end-user do so more easily.  The world would specify the methods by which agents can interact with it, and these would be commands in your language.  Your module would be able to load a config file and convert it into an agent.
 + Machine Learning AI - this would be an AI system that is trained in the given world type.  The underlying representation can be whichever one you are most interested in or familiar with, such as neural networks, evolved agents, etc.  One challenges associated with this project type is that you will likely want to make use of an external library that you would need to find and learn.
 
 ## Interface Modules
