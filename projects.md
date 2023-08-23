@@ -40,6 +40,13 @@ Additionally, we have two other categories that will be given out sparingly.
 + **_Exemplary Contributor_**: You went substantially beyond project requirements, turning in code that is impressive on all levels.  You will receive the full 45 points on the project, but this qualification also recognizes the incredible effort that you put forth.
 
 
+# Project Groups
+
+You will be in a group of three to four people to work on one of the above modules as a semester-long project.  Students will have the opportunity to discuss potential project ideas with each other and propose groups to the instructors.  The instructors will also help students form groups as needed, trying to match appropriate skill combinations and interests.
+
+Once groups are formed, members will devise a working agreement with a plan for how they will all contribute to the project and support one another.  Here is an [example agreement](example_agreement.html).
+
+
 # Project Topics
 
 Each group will work on a component of a larger, modular agent-based system.  Depending on which components are chosen by teams, we will be producing either a game, a scientific simulation, or both.  Individual components will require different sets of skills.
@@ -80,10 +87,3 @@ Interface modules provide mechanisms for the system user to interact with or at 
 + A data-collection and analysis module.  This project wouldn't build an interface to an agent, but it would collect substantial information from a run.  For example, it might track the density of where different types of agents spend their time, or catalog the interactions among agents.
 
 Other types of user-interfaces could also be available and can be proposed by students.
-
-
-# Project Groups
-
-You will be in a group of three to four people to work on one of the above modules as a semester-long project.  Students will have the opportunity to discuss potential project ideas with each other and propose groups to the instructors.  The instructors will also help students form groups as needed, trying to match appropriate skill combinations and interests.
-
-Once groups are formed, members will devise a working agreement with a plan for how they will all contribute to the project and support one another.  Here is an [example agreement](example_agreement.html).
