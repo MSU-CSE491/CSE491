@@ -18,6 +18,8 @@ Lots of useful links and bonus videos below.  These resources will be expanded a
 
 [CPP Insights](https://cppinsights.io/) - See how a compiler views your C++ code.  Helps spell out many of the implicit assumptions that you might be making.
 
+[The C++ Subreddit](https://www.reddit.com/r/cpp) - New, useful resources are often announced here, along with interesting discussions about the C++ language.
+
 ## Video suggestions
 
 On the class [schedule](schedule.md) you will see class-by-class videos to watch for discussion.  Here are some additional videos that were informative.  
