@@ -13,13 +13,13 @@ This course is divided up into six units, each of which is two to four weeks lon
 |:--------:|-------------------------------------| ------ |
 | **Week 1** | | |
 | 8/28/23  | **A review of 232 and 335**         | |
-| 8/30/23  | **Tools: Compiler Features and Static Analysis** <br> *Video:* [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w) (16 min) <br> *Video*: [Software Development with C++: clang-format](https://www.youtube.com/watch?v=YNv_g6ceL0w) (9 min) <br> *Video*: [Software Development with C++: Compiler Optimization Levels](https://www.youtube.com/watch?v=Gwvn8ruzXT8) (13 min) | Quiz 1 out |
+| 8/30/23  | **Tools: Compiler Features and Static Analysis** <br> *Video:* [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w) (16 min) <br> *Video*: [Software Development with C++: clang-format](https://www.youtube.com/watch?v=YNv_g6ceL0w) (9 min) <br> *Video*: [Software Development with C++: Compiler Optimization Levels](https://www.youtube.com/watch?v=Gwvn8ruzXT8) (13 min) | **Out:** Quiz 1 |
 | **Week 2** | |
 | 9/4/23   | **NO CLASS** (Labor Day)            | |
-| 9/6/23   | **C++ Core Guidelines** <br> *Video:* [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?v=XkDEzfpdcSg) (62 min) | Project Group Assignments; Quiz redos |
+| 9/6/23   | **C++ Core Guidelines** <br> *Video:* [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?v=XkDEzfpdcSg) (62 min) | **Out:** Project Group Assignments; Quiz redos |
 | **Week 3** | |
 | 9/11/23  | **Ranges and Views** <br> *Video:* [C++20 Ranges in Practice](https://www.youtube.com/watch?v=L0bhZp6HMDM) (62 min) | |
-| 9/13/23  | **Deep Dive: Implementing `std::string`** + **Using Doxygen** <br> *Video:* [The strange details of std::string at Facebook](https://www.youtube.com/watch?v=kPR8h4-qZdk) (31 min) <br> *Video:* [Doxygen Basics](https://www.youtube.com/watch?v=TtRn3HsOm1s) (35 min) | Quiz 2 out; **Due:** Project specs; team agreements |
+| 9/13/23  | **Deep Dive: Implementing `std::string`** + **Using Doxygen** <br> *Video:* [The strange details of std::string at Facebook](https://www.youtube.com/watch?v=kPR8h4-qZdk) (31 min) <br> *Video:* [Doxygen Basics](https://www.youtube.com/watch?v=TtRn3HsOm1s) (35 min) | **Out:** Quiz 2; **Due:** Project specs; team agreements |
 
 ## Unit II: Writing Reliable Code
 
@@ -30,7 +30,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* [Back to Basics: C++ Testing](https://www..youtube.com/watch?v=SAM4rWaIvUQ) (62 min) | Quiz redos; **Due:** Project Design, spec comments |
 | **Week 5** | | |
 | 9/25/23  | **Debugging your code** <br> *Video:* [Back To Basics: Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) (65 min) | |
-| 9/27/23  | **Memory Management** + **Casting** <br> *Video:* [C++ Memory Management Part 1: Pointer Primer, new, delete, macros](https://www.youtube.com/watch?v=DuJxoTzrCLY) (14 min) <br> *Video:* [C++ Memory Management Part 2: Modern Pointers, shared, unique](https://www.youtube.com/watch?v=u_FEZDfBPk8) (23 min) <br> *Video:* [Back to Basics: Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) (45 min) | Quiz 3 out; **Due:** Test suite, proof-of-concept |
+| 9/27/23  | **Memory Management** + **Casting** <br> *Video:* [C++ Memory Management Part 1: Pointer Primer, new, delete, macros](https://www.youtube.com/watch?v=DuJxoTzrCLY) (14 min) <br> *Video:* [C++ Memory Management Part 2: Modern Pointers, shared, unique](https://www.youtube.com/watch?v=u_FEZDfBPk8) (23 min) <br> *Video:* [Back to Basics: Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) (45 min) | **Out:** Quiz 3; **Due:** Test suite, proof-of-concept |
 
 ## Unit III: Writing Generic Code
 
@@ -41,7 +41,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 10/4/23  | Template Specialization and Variadic templates | Quiz redos |
 | **Week 7** | | |
 | 10/9/23  | Lambdas | |
-| 10/11/23 | Deep Dive: Smart Pointers | Quiz 4 out; **Due:** Project Prototypes |
+| 10/11/23 | Deep Dive: Smart Pointers | **Out:** Quiz 4; **Due:** Project Prototypes |
 
 ## Unit IV: Writing Efficient Code
 
@@ -58,7 +58,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 11/1/23  | Custom Memory Management <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) | Quiz Redos; **Due:** Efficiency reports; updated plans |
 | **Week 11** | | |
 | 11/6/23  | Compile-time execution |
-| 11/8/23  | Meta-programming: building and using type traits | Quiz 5 out |
+| 11/8/23  | Meta-programming: building and using type traits | **Out:** Quiz 5 |
 
 ## Unit V: Advanced Topics
 
@@ -69,7 +69,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 11/15/23 | Advanced template use (CRTP, Concepts, etc) | Quiz redos |
 | **Week 13** | | |
 | 11/20/23 | Compiling for the Web with Emscripten | |
-| 11/22/23 | Understanding Code Licenses | Quiz redos; Feature Freeze (bug fixes and docs only) |
+| 11/22/23 | Understanding Code Licenses | Quiz redos; **Due:** Feature Freeze |
 | **Week 14** | | |
 | 11/27/23 | Attributes + User-defined Literals | |
 | 11/29/23 | Missing Topics: A whirlwind tour of additional uncovered material | Quiz redos; **Due:** Reviews of final blog posts |
