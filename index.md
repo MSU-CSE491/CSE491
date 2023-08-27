@@ -67,14 +67,14 @@ You will need to write a blog entry over the course of the semester (worth 8 poi
 **A note about participation**: If you engage in conversation, you provide us with another source of information as to how well you are learning the material, and how much effort you are putting into the course. Let's have an active class! Class participation will never harm your grade; always ask any questions you may have about the material.
 
 ## Academic Dishonesty
-Unlike most CSE classes, this course will encourage you to discuss any course material with each other and even make extensive use of outside sources including AI systems.  The main issues that you need to be careful about are that you provide appropriate credit (i.e., cite your sources and do not claim someone else's work as your own) and that you take any in-class quizzes or participation questions on your own without getting help from anyone else.  While it is okay to use previously written code or AI-generated code (with citations in either case), your project group is responsible for generating the bulk of new code that you use.
+Unlike most CSE classes, this course will encourage you to discuss any course material with each other and even make extensive use of outside sources including AI systems.  The main issues that you need to be careful about are that you provide appropriate credit (i.e., cite your sources and do not claim someone else's work as your own) and that you take any in-class quizzes or participation questions on your own without getting help from anyone else.  While it is okay to use previously written code or AI-generated code (with citations in either case), your project group is responsible for generating the bulk of new code that you use.  Furthermore, you are responsible for fully understand all code that you make use of -- do not just insert code because it works; make sure you know _why_ it works.
 
 Because a primary goal of this course is to teach professionalism, any academic dishonesty will be grounds for receiving a failing grade for the semester. Specific examples of academic dishonesty include (but are not limited to):
 + Copying another student’s quiz answers.
 + Using code or text not written by yourself without attributing credit.
 + Paying someone else to write project code for you.
 + Providing false information to an instructor about matters related to the course.
-+ Facilitating another student in any of these activities.
++ Facilitating another student in committing academic dishonesty.
 
 ## General Note
-The goal of this class is for you to learn how to develop C++ code that is safe, efficient, and reliable. If anything is coming in your way of that goal, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
+The goals of this class is for you to (1) learn how to write C++ code that is safe, efficient, and reliable; (2) improve your ability to write about computational topics, and (3) develop strong teamwork capabilities. If anything is coming in your way of these goals, please talk with us about it. We plan to keep the class flexible to the learning styles that seem to work best for the students, so feedback is always appreciated.
