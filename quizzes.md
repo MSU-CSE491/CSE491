@@ -30,3 +30,36 @@ For the pre-requisite quiz, we require a 8/10 to pass and continue on to the oth
 Quizzes will be released by the end of the unit covering the material (the pre-requisite quiz will be available starting on the first week of the semester).
 
 We will provide at least one class session most weeks, typically during the Wednesday session, where we will allow students to take a quizzes.  Overall students will have at least 12 occasions to take the quizzes, giving many opportunities for re-takes if needed.
+
+## Quiz 1: Pre-requisites
+
+This first quiz focuses on the pre-requisite knowledge that you should be coming into the course with.  It will be slightly easier than the questions from the final exam in CSE 232, but you are expected to understand material well.
+
+We have generated ten sample quizzes for you to try out as you prepare for this first quiz.  The quizzes are randomly generated from a quiz bank so you will see questions repeated from one quiz to another, although the available options are likely to vary in most cases.  Some of these questions may also appear on the real quiz.
+
++ [Sample Quiz A](sample_quizzes/sample1A.html)
++ [Sample Quiz B](sample_quizzes/sample1B.html)
++ [Sample Quiz C](sample_quizzes/sample1C.html)
++ [Sample Quiz D](sample_quizzes/sample1D.html)
++ [Sample Quiz E](sample_quizzes/sample1E.html)
++ [Sample Quiz F](sample_quizzes/sample1F.html)
++ [Sample Quiz G](sample_quizzes/sample1G.html)
++ [Sample Quiz H](sample_quizzes/sample1H.html)
++ [Sample Quiz I](sample_quizzes/sample1I.html)
++ [Sample Quiz J](sample_quizzes/sample1J.html)
+
+## Quiz 2: C++ Fundamentals
+
+_Forthcoming_
+
+## Quiz 3: Reliable C++ Code
+
+_Forthcoming_
+
+## Quiz 4: Generic C++ Code
+
+_Forthcoming_
+
+## Quiz 5: Efficient C++ Code
+
+_Forthcoming_
