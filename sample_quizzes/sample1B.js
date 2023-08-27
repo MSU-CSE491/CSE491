@@ -17,16 +17,16 @@ function clearResults(button_name) {
 
 function PrintResults(show_correct) {  event.preventDefault(); // Prevent form from submitting to a server
   let correctAnswers = {
-    q10: "(B)",
-    q18: "(D)",
-    q34: "(D)",
-    q16: "(D)",
+    q28: "(B)",
+    q7: "(A)",
+    q38: "(B)",
     q22: "(C)",
-    q49: "(B)",
-    q5: "(D)",
-    q1: "(A)",
+    q17: "(C)",
     q19: "(B)",
-    q50: "(A)",
+    q34: "(C)",
+    q39: "(A)",
+    q42: "(C)",
+    q2: "(E)",
   };
 
   let userAnswers = {};
