@@ -32,7 +32,7 @@ Understanding of C++ basics (as taught in CSE 232 and CSE 335), completion of al
 This course will be taught using a “flipped classroom” methodology. Students will be expected to watch provided videos (or read assigned web pages) before each class session.  Sessions will briefly review these topics, but focus on discussion of concepts and live implementation, debugging, or code reviews, as well as quizzes, small group discussions, and student presentations of their progress.  The course [schedule](schedule.html) will include the required material at least a week before it is due (and likely much sooner than that).
 
 ## Grading
-Grades will be based on:
+In this course you will have the opportunity to earn up to 100 points toward your final grade.  Grades will be based on:
 
 | **Project** | 45 points |
 | **Weekly Updates** | 12 points |
