@@ -41,22 +41,22 @@ Grades will be based on:
 | **Participation Questions** | 5 points |
 | **TOTAL** | 100 points |
 
-Each of these area are important: If you get fewer than half the points in any single category, that is grounds for receiving a zero as a final course grade. You will need 90 of the 100 possible points to guarantee a 4.0, 85 points for 3.5, 80 points for 3.0, 75 points for 2.5, 70 points for 2.0, 65 points for 1.5, and 60 points for 1.0.
+Each area is important: If you get fewer than half the points in any single category, that is grounds for receiving a zero as a final course grade. You will need 90 of the 100 possible points to guarantee a 4.0, 85 points for 3.5, 80 points for 3.0, 75 points for 2.5, 70 points for 2.0, 65 points for 1.5, and 60 points for 1.0.
 
 ### [Project](projects.html)
-You will be placed in a group to work on a semester-long project.  You may earn up to 45 points this way, based on both consistent progress and the quality of the final product.  Your final project grade will be based on three main factors: Functionality (Meeting the project goals), Code Quality (Consistent style, documentation, function modularity, file layout, test coverage, etc.), and Individual Contributions (Teammate ratings, info in weekly progress reports, and git logs).
+You will work in a group on a semester-long project.  You may earn up to 45 points this way, based on both consistent progress and the quality of the final product.  Your final project grade will be based on three main factors: Functionality (Meeting the project goals), Code Quality (Consistent style, documentation, function modularity, file layout, test coverage, etc.), and your Individual Contributions (Teammate ratings, info in weekly progress reports, and git logs).
 
 ### [Weekly Updates](updates.html)
-Each Friday before midnight (starting in week 2) students will be expect to turn in a weekly progress reports.  Each report must contain four sections:
+Each Friday before midnight (starting in week 2) students will be expected to turn in a weekly progress reports.  Each report must contain four sections:
 + What did you work on this past week?
 + What do you plan to work on next week?
 + Are you facing any challenges with the project?
-+ How is the overall project going for the entire group?
++ How is the overall project going for the rest of your group?
 
 Some reports might have extra specific questions that you will be told at least 48 hours ahead of time. Reports are worth 1 point each and will be graded on a pass/fail basis (honest attempts will be given a "pass" as long as problems are corrected in future reports).  Overall you will be expected to turn in 14 of these reports, but a maximum of 12 points will count toward your final grade.
 
 ### [Quizzes](quizzes.html)
-There will be five quizzes that you must pass by the end of the semester.  The first quiz will be one “C++ Pre-Requisites” and will not be worth points, but must be passed before you can take any of the other quizzes. The remaining four quizzes will each be worth 6 points toward your final grade.  Quizzes will have a high threshold for passing, but will have multiple versions so you will be able to take each quiz at least twice with only the best performance counting.
+There will be five quizzes that you must pass by the end of the semester.  The first quiz will be on “C++ Pre-Requisites” and will not be worth points, but must be passed before you can take the other quizzes. The remaining four quizzes will each be worth 6 points toward your final grade.  Quizzes will have a high threshold for passing, but will have multiple versions so you will be able to take each quiz at least twice with only the best performance counting.
 
 ### [Blog Entries](blog.html)
 You will need to write a blog entry over the course of the semester (worth 8 points) and act as a reviewer on three others (worth 6 points) for a total of 14 points.  As a breakdown of these points: For the entry you are writing, points will be allocated to the proposal (1 point), the initial draft (2 point), and the final document (5 points). For the three reviews, you will receive one point for reviewing each draft (3 points total) and another point for reviewing each final entry (another 3 points total).
