@@ -37,49 +37,49 @@ This course is divided up into six units, each of which is two to four weeks lon
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 6** | | |
-| 10/2/23  | Template Rules | **Due:** Blog Post Draft |
-| 10/4/23  | Template Specialization and Variadic templates | Quiz redos |
+| 10/2/23  | **Template Rules** | **Due:** Blog Post Draft |
+| 10/4/23  | **Template Specialization and Variadic templates** | Quiz redos |
 | **Week 7** | | |
-| 10/9/23  | Lambdas | |
-| 10/11/23 | Deep Dive: Smart Pointers | **Out:** Quiz 4; **Due:** Project Prototypes |
+| 10/9/23  | **Lambdas** | |
+| 10/11/23 | **Deep Dive: Smart Pointers** | **Out:** Quiz 4; **Due:** Project Prototypes |
 
 ## Unit IV: Writing Efficient Code
 
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 8** | | |
-| 10/16/23 | Concurrency (Guest lecture from Dr. Bill Punch) | |
-| 10/18/23 | STATUS UPDATES | **Due:** Project Status Reports |
+| 10/16/23 | **Concurrency** (Guest lecture from Dr. Bill Punch) | |
+| 10/18/23 | **STATUS UPDATES** | **Due:** Project Status Reports |
 | **Week 9** | | |
-| 10/23/23 | NO CLASS | |
-| 10/25/23 | Measuring Efficiency + Profiling Code | Quiz Redos; **Due:** Reviews of Blog Post Drafts |
+| 10/23/23 | **NO CLASS** | |
+| 10/25/23 | **Measuring Efficiency** + **Profiling Code** | Quiz Redos; **Due:** Reviews of Blog Post Drafts |
 | **Week 10** | | |
-| 10/30/23 | Avoiding copies with views, spans, and move semantics |  |
-| 11/1/23  | Custom Memory Management <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) | Quiz Redos; **Due:** Efficiency reports; updated plans |
+| 10/30/23 | **Avoiding copies with views, spans, and move semantics** |  |
+| 11/1/23  | **Custom Memory Management** <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) | Quiz Redos; **Due:** Efficiency reports; updated plans |
 | **Week 11** | | |
-| 11/6/23  | Compile-time execution |
-| 11/8/23  | Meta-programming: building and using type traits | **Out:** Quiz 5 |
+| 11/6/23  | **Compile-time execution** |
+| 11/8/23  | **Meta-programming: building and using type traits** | **Out:** Quiz 5 |
 
 ## Unit V: Advanced Topics
 
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 12** | | |
-| 11/13/23 | Deep Dive: Bit Sets | **Due:** Final Blog Post |
-| 11/15/23 | Advanced template use (CRTP, Concepts, etc) | Quiz redos |
+| 11/13/23 | **Deep Dive: Bit Sets** | **Due:** Final Blog Post |
+| 11/15/23 | **Advanced template use (CRTP, Concepts, etc)** | Quiz redos |
 | **Week 13** | | |
-| 11/20/23 | Compiling for the Web with Emscripten | |
-| 11/22/23 | Understanding Code Licenses | Quiz redos; **Due:** Feature Freeze |
+| 11/20/23 | **Compiling for the Web with Emscripten** | |
+| 11/22/23 | **Understanding Code Licenses** | Quiz redos; **Due:** Feature Freeze |
 | **Week 14** | | |
-| 11/27/23 | Attributes + User-defined Literals | |
-| 11/29/23 | Missing Topics: A whirlwind tour of additional uncovered material | Quiz redos; **Due:** Reviews of final blog posts |
+| 11/27/23 | **Attributes** + **User-defined Literals** | |
+| 11/29/23 | **Missing Topics: A whirlwind tour of additional uncovered material** | Quiz redos; **Due:** Reviews of final blog posts |
 
 ## Unit VI: Wrap-up
 
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 15** | | |
-| 12/4/23  | Catchup / Special Topics | **Due:** Final Project! |
-| 12/6/23  | FINAL PRESENTATIONS | |
+| 12/4/23  | **Catchup / Special Topics** | **Due:** Final Project! |
+| 12/6/23  | **FINAL PRESENTATIONS** | |
 | **Finals** | | |
-| 12/11/23 | FINAL PRESENTATIONS | |
+| 12/11/23 | **FINAL PRESENTATIONS** | |
