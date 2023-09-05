@@ -20,6 +20,8 @@ Lots of useful links and bonus videos below.  These resources will be expanded a
 
 [The C++ Subreddit](https://www.reddit.com/r/cpp) - New, useful resources are often announced here, along with interesting discussions about the C++ language.
 
+[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - A set of guidelines to help you leverage "modern" C++.
+
 ## Video suggestions
 
 On the class [schedule](schedule.md) you will see class-by-class videos to watch for discussion.  Here are some additional videos that were informative.  
