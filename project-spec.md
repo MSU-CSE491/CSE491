@@ -14,7 +14,7 @@ For each type of module, there are specific features that will be needed, and ot
 
 Projects can be **challenging** for many reasons.  For example, they could require:
 + tricky coding or use of sophisticated C++ techniques,
-+ a high-level of optimization to be sufficiently efficient,
++ a high level of optimization to be sufficiently efficient,
 + use of an external library or tool that you need to learn,
 + substantial data juggling, or
 + coordination with several other groups.
@@ -23,8 +23,8 @@ Please make good use of the Discord to communicate with your group and coordinat
 
 There is some functionality that **ALL modules should support**:
 * The ability to provide usage information about itself (likely from a series of Help functions that should return an information string)
-* The ability to save and load data (Worlds and Agents would need to read/write their state to a stream; interfaces would need to trigger this process)
-+ The ability to run unit-tests on individual functions/components
+* The ability to save and load data (Worlds and Agents would need to read/write their state to a stream; Interfaces would need to trigger this process)
+* The ability to run unit-tests on individual functions/components
 
 ## Module Types
 
@@ -42,7 +42,7 @@ Each type of module should have additional functionality.  Let's assume that we 
 
 *Example*: In Pac-Man, the interface would need to show the entire world (as provided by the world) and allow players to steer Pac-Man, presumably with the arrow keys.  In a more complicated world, however, the interface would need to do more.  In a more intricate setting like a dungeon-crawler, the interface might need to offer functionalities like inventory checks, item equipping, and more.
 
-**Analysis Module**: This module will extract insights from the system's dynamics. Its primary function is data collection and visualization. As a run progresses, the analysis module should diligently track agent activities, world alterations, or other significant events or metrics. Beyond mere data collection, the module should also offer intuitive visualizations to help make sense of the data. This might come in the form of graphs, heat maps, or an interactive dashboard, depending on the complexity and the data type. The ultimate aim is to allow for a post-run analysis that provides insights into the behaviors of agents, the interaction dynamics within the world, and potentially, areas for optimization or adjustment.
+**Analysis Module**: This module will extract insights from the system's dynamics. Its primary function is data collection and visualization. As a game progresses, the analysis module should diligently track agent activities, world alterations, or other significant events or metrics. Beyond mere data collection, the module should also offer intuitive visualizations to help make sense of the data. This might come in the form of graphs, heat maps, or an interactive dashboard, depending on the complexity and the data type. The ultimate aim is to allow for a post-game analysis that provides insights into the behaviors of agents, the interaction dynamics within the world, and potentially, areas for optimization or adjustment.
 
 _Example_: In the context of Pac-Man, the Analysis Module might track the routes taken by the ghosts, highlighting high-frequency paths with heatmaps. It might also document areas within the maze where Pac-Man is frequently cornered or caught. Other metrics could include the average time taken to consume all dots, the frequency of power-up consumption versus ghost confrontations, or even Pac-Man's movement patterns in relation to ghost proximity. By visualizing these metrics, players and developers can gain a clearer understanding of gameplay dynamics and strategize better for subsequent runs.
 
