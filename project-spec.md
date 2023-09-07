@@ -28,7 +28,9 @@ There is some functionality that **ALL modules should support**:
 
 ## Module Types
 
-Each type of module should have additional functionality.  Let's assume that we are working with grid-based representations for worlds.  In that case:
+Remember that a particular system will have at least three modules: A world, one or more agent types, and one or more interface types.  In many cases that system will be a "game" if we have a player-style interface, or else a "simulation" if it is all agents with a data-collection/analysis interface.
+
+Each type of module should have specific functionality.  Let's assume that we are working with grid-based representations for worlds.  In that case:
 
 **World Modules** will need to manage the grid, track where agents are on it, and handle any agent-world or agent-agent interactions.  The nature of what's in the world and what interactions are allowed will be determined by each world team.  The world may specify a set of possible actions that agents can take, but the agents themselves will decide which actions they actually do take and when they take them.  Furthermore, the world module may need to respond to requests for information from interface modules, but the world itself is not responsible for displaying that information to a human user.
 
@@ -42,7 +44,7 @@ Each type of module should have additional functionality.  Let's assume that we 
 
 *Example*: In Pac-Man, the interface would need to show the entire world (as provided by the world) and allow players to steer Pac-Man, presumably with the arrow keys.  In a more complicated world, however, the interface would need to do more.  In a more intricate setting like a dungeon-crawler, the interface might need to offer functionalities like inventory checks, item equipping, and more.
 
-**Analysis Module**: This module will extract insights from the system's dynamics. Its primary function is data collection and visualization. As a game progresses, the analysis module should diligently track agent activities, world alterations, or other significant events or metrics. Beyond mere data collection, the module should also offer intuitive visualizations to help make sense of the data. This might come in the form of graphs, heat maps, or an interactive dashboard, depending on the complexity and the data type. The ultimate aim is to allow for a post-game analysis that provides insights into the behaviors of agents, the interaction dynamics within the world, and potentially, areas for optimization or adjustment.
+**Data-Collection/Analysis Module**: This module is a specialty interface that will extract insights from the system's dynamics. Its primary function is data collection and visualization. As a game progresses, the analysis module should diligently track agent activities, world alterations, or other significant events or metrics. Beyond mere data collection, the module should also offer intuitive visualizations to help make sense of the data. This might come in the form of graphs, heat maps, or an interactive dashboard, depending on the complexity and the data type. The ultimate aim is to allow for a post-game analysis that provides insights into the behaviors of agents, the interaction dynamics within the world, and potentially, areas for optimization or adjustment.
 
 _Example_: In the context of Pac-Man, the Analysis Module might track the routes taken by the ghosts, highlighting high-frequency paths with heatmaps. It might also document areas within the maze where Pac-Man is frequently cornered or caught. Other metrics could include the average time taken to consume all dots, the frequency of power-up consumption versus ghost confrontations, or even Pac-Man's movement patterns in relation to ghost proximity. By visualizing these metrics, players and developers can gain a clearer understanding of gameplay dynamics and strategize better for subsequent runs.
 
