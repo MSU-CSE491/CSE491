@@ -50,7 +50,12 @@ We have generated ten sample quizzes for you to try out as you prepare for this 
 
 ## Quiz 2: C++ Fundamentals
 
-_Forthcoming_
+Quiz 2 covers topics discussed in the first three weeks of class. 
+
++ [Sample Quiz A](sample_quizzes/quiz_2/quiz_2_sample_A.html)
++ [Sample Quiz B](sample_quizzes/quiz_2/quiz_2_sample_B.html)
++ [Sample Quiz C](sample_quizzes/quiz_2/quiz_2_sample_C.html)
+
 
 ## Quiz 3: Reliable C++ Code
 

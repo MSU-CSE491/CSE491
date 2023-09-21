@@ -27,7 +27,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 |:--------:|-------------------------------------| ------ |
 | **Week 4** | | |
 | 9/18/23  | **Avoiding Undefined Behavior** <br> *Video:* [Back To Basics: Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) (62 min) | **Due:** Blog Post Proposal |
-| 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* [Back to Basics: C++ Testing](https://www..youtube.com/watch?v=SAM4rWaIvUQ) (62 min) | Quiz redos; **Due:** Initial API comments |
+| 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* [Back to Basics: C++ Testing (only 1:15 - 21:15)](https://youtu.be/SAM4rWaIvUQ?si=JQmJAK_1-F9aKqip&t=73) (20 min) <br/> *Read over:* [Catch 2 - Tutorial](https://github.com/catchorg/Catch2/blob/devel/docs/tutorial.md#writing-tests) <br/> *Read over:* [Unit vs. Integration Testing](https://circleci.com/blog/unit-testing-vs-integration-testing/) | Quiz redos; **Due:** Project Design, spec comments |
 | **Week 5** | | |
 | 9/25/23  | **Debugging your code** <br> *Video:* [Back To Basics: Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) (65 min) | |
 | 9/27/23  | **Memory Management** + **Casting** <br> *Video:* [C++ Memory Management Part 1: Pointer Primer, new, delete, macros](https://www.youtube.com/watch?v=DuJxoTzrCLY) (14 min) <br> *Video:* [C++ Memory Management Part 2: Modern Pointers, shared, unique](https://www.youtube.com/watch?v=u_FEZDfBPk8) (23 min) <br> *Video:* [Back to Basics: Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) (45 min) | **Out:** Quiz 3; **Due:** Test suite, proof-of-concept |
