@@ -27,7 +27,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 |:--------:|-------------------------------------| ------ |
 | **Week 4** | | |
 | 9/18/23  | **Avoiding Undefined Behavior** <br> *Video:* [Back To Basics: Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) (62 min) | **Due:** Blog Post Proposal |
-| 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* [Back to Basics: C++ Testing](https://www..youtube.com/watch?v=SAM4rWaIvUQ) (62 min) | Quiz redos; **Due:** Project Design, spec comments |
+| 9/20/23  | **Tools: Setting up Testing Frameworks** <br> *Video:* [Back to Basics: C++ Testing](https://www..youtube.com/watch?v=SAM4rWaIvUQ) (62 min) | Quiz redos; **Due:** Initial API comments |
 | **Week 5** | | |
 | 9/25/23  | **Debugging your code** <br> *Video:* [Back To Basics: Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) (65 min) | |
 | 9/27/23  | **Memory Management** + **Casting** <br> *Video:* [C++ Memory Management Part 1: Pointer Primer, new, delete, macros](https://www.youtube.com/watch?v=DuJxoTzrCLY) (14 min) <br> *Video:* [C++ Memory Management Part 2: Modern Pointers, shared, unique](https://www.youtube.com/watch?v=u_FEZDfBPk8) (23 min) <br> *Video:* [Back to Basics: Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) (45 min) | **Out:** Quiz 3; **Due:** Test suite, proof-of-concept |
@@ -37,11 +37,11 @@ This course is divided up into six units, each of which is two to four weeks lon
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 6** | | |
-| 10/2/23  | **Template Rules** | **Due:** Blog Post Draft |
-| 10/4/23  | **Template Specialization and Variadic templates** | Quiz redos |
+| 10/2/23  | **Template Rules** <br> *Video:* [Back to Basics: Templates (Part 1 of 2)](https://www.youtube.com/watch?v=XN319NYEOcE) (61 min) | |
+| 10/4/23  | **Template Specialization and Variadic templates** <br> *Video:* [Back to Basics: Templates (Part 2 of 2)](https://www.youtube.com/watch?v=FfI6Lov1O9M) (67 min) | Quiz redos; **Due:** Blog Post Draft |
 | **Week 7** | | |
-| 10/9/23  | **Lambdas** | |
-| 10/11/23 | **Deep Dive: Smart Pointers** | **Out:** Quiz 4; **Due:** Project Prototypes |
+| 10/9/23  | **Lambdas** <br> *Video:* [Back to Basics: Lambdas](https://www.youtube.com/watch?v=IgNUBw3vcO4) (67 min) | |
+| 10/11/23 | Catchup | **Out:** Quiz 4; **Due:** Project Prototypes |
 
 ## Unit IV: Writing Efficient Code
 
@@ -66,7 +66,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 |:--------:|-------------------------------------| ------ |
 | **Week 12** | | |
 | 11/13/23 | **Deep Dive: Bit Sets** | **Due:** Final Blog Post |
-| 11/15/23 | **Advanced template use (CRTP, Concepts, etc)** | Quiz redos |
+| 11/15/23 | **Advanced template use** <br> *Video:* [From C++ Templates to C++ Concepts - Metaprogramming: an Amazing Journey](https://www.youtube.com/watch?v=_doRiQS4GS8) (53 min) | Quiz redos |
 | **Week 13** | | |
 | 11/20/23 | **Compiling for the Web with Emscripten** | |
 | 11/22/23 | **Understanding Code Licenses** | Quiz redos; **Due:** Feature Freeze |
