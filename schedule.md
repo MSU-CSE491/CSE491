@@ -37,19 +37,19 @@ This course is divided up into six units, each of which is two to four weeks lon
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 6** | | |
-| 10/2/23  | **Template Rules** | **Due:** Blog Post Draft |
-| 10/4/23  | **Template Specialization and Variadic templates** | Quiz redos |
+| 10/2/23  | **Template Rules** <br> *Video:* [Back to Basics: Templates (Part 1 of 2)](https://www.youtube.com/watch?v=XN319NYEOcE) (61 min) | |
+| 10/4/23  | **Template Specialization and Variadic templates** <br> *Video:* [Back to Basics: Templates (Part 2 of 2)](https://www.youtube.com/watch?v=FfI6Lov1O9M) (67 min) | Quiz redos |
 | **Week 7** | | |
-| 10/9/23  | **Lambdas** | |
-| 10/11/23 | **Deep Dive: Smart Pointers** | **Out:** Quiz 4; **Due:** Project Prototypes |
+| 10/9/23  | **Lambdas** <br> *Video:* [Back to Basics: Lambdas](https://www.youtube.com/watch?v=IgNUBw3vcO4) (67 min) | |
+| 10/11/23 | Catchup | **Out:** Quiz 4; **Due:** Project Prototypes |
 
 ## Unit IV: Writing Efficient Code
 
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 8** | | |
-| 10/16/23 | **Concurrency** (Guest lecture from Dr. Bill Punch) | |
-| 10/18/23 | **STATUS UPDATES** | **Due:** Project Status Reports |
+| 10/16/23 | **Concurrency** (Guest lecture from Dr. Bill Punch) | **Due:** Blog Post Draft |
+| 10/18/23 | **STATUS UPDATES** | **Due:** Project Updates / Full Demos |
 | **Week 9** | | |
 | 10/23/23 | **NO CLASS** | |
 | 10/25/23 | **Measuring Efficiency** + **Profiling Code** | Quiz Redos; **Due:** Reviews of Blog Post Drafts |
@@ -66,7 +66,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 |:--------:|-------------------------------------| ------ |
 | **Week 12** | | |
 | 11/13/23 | **Deep Dive: Bit Sets** | **Due:** Final Blog Post |
-| 11/15/23 | **Advanced template use (CRTP, Concepts, etc)** | Quiz redos |
+| 11/15/23 | **Advanced template use** <br> *Video:* [From C++ Templates to C++ Concepts - Metaprogramming: an Amazing Journey](https://www.youtube.com/watch?v=_doRiQS4GS8) (53 min) | Quiz redos |
 | **Week 13** | | |
 | 11/20/23 | **Compiling for the Web with Emscripten** | |
 | 11/22/23 | **Understanding Code Licenses** | Quiz redos; **Due:** Feature Freeze |
