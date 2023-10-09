@@ -48,7 +48,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 8** | | |
-| 10/16/23 | **Concurrency** (Guest lecture from Dr. Bill Punch) | **Due:** Blog Post Draft |
+| 10/16/23 | **Concurrency** (Guest lecture from Dr. Bill Punch) <br> *Video:* [Back to Basics: Concurrency](https://www.youtube.com/watch?v=F6Ipn7gCOsY) - FIRST ~31 minutes only (to question break) | **Due:** Blog Post Draft |
 | 10/18/23 | **STATUS UPDATES** | **Due:** Project Updates / Full Demos |
 | **Week 9** | | |
 | 10/23/23 | **NO CLASS** | |
