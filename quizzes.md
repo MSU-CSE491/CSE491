@@ -59,7 +59,11 @@ Quiz 2 covers topics discussed in the first three weeks of class.
 
 ## Quiz 3: Reliable C++ Code
 
-_Forthcoming_
+Quiz 3 covers topics discussed in weeks four and five. 
+
++ [Sample Quiz A](sample_quizzes/quiz_3/quiz_3_sample_A.html)
++ [Sample Quiz B](sample_quizzes/quiz_3/quiz_3_sample_B.html)
+
 
 ## Quiz 4: Generic C++ Code
 

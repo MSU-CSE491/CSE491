@@ -18,6 +18,7 @@ layout: default
 | Credits      | 4                         |
 | Textbook     | None                      |
 | Web Site     | [https://msu-cse491.github.io/CSE491/](https://msu-cse491.github.io/CSE491/) |
+| Project repo | [https://github.com/MSU-CSE491/cse_491_fall_2023](https://github.com/MSU-CSE491/cse_491_fall_2023) |
 
 ### Required Technology
 Students are expected to bring a laptop running a modern operating system (Windows, MacOS or Linux) to each class session.  This laptop must be capable of running a modern C++ compiler and have access to the web.
