@@ -4,8 +4,6 @@ layout: default
 
 # Blog Posts
 
-## NOT FINAL YET!
-
 ## Drafts
 
 You will submit your blog post drafts, reviews, and final product into the .  For the drafts, here is the procedure you should go through:
@@ -20,7 +18,7 @@ You will submit your blog post drafts, reviews, and final product into the .  Fo
 
 Once this process is finished, we will be able to assign blog posts for review.
 
-## Reviews
+## Reviews (NOT FINAL YET!)
 
 Once all of the blog post drafts are turned in, you will be assigned three other blog posts to review, and likely turn them in view a Google form (we are still working on the details, but we want reviews to be anonymous to the receiver, but not to the instructors.)
 
