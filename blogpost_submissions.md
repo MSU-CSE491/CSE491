@@ -4,15 +4,17 @@ layout: default
 
 # Blog Posts
 
+## NOT FINAL YET!
+
 ## Drafts
 
 You will submit your blog post drafts, reviews, and final product into the .  For the drafts, here is the procedure you should go through:
 
 **Step 1**: Create new branch to put your blog post in.  Name the branch with your last name followed by "_blogpost".  So my branch would be called "Ofria_blogpost".
 
-**Step 2**: In your new brach, create a sub-directory under "blogposts/" with your last name.  For example, I would create one called `blogposts/Ofria/` if I were adding my own blog post.
+**Step 2**: In your new brach, create a sub-directory under "blogposts/" with your last name.  For example, I would create one called `blogposts/Ofria/`.
 
-**Step 3**: Put your draft blog in this directory.  I recommend that it be in HTML or MarkDown format since that will be the requirement for the final version, but other common formats (PDF, Word, etc.) are okay for the draft.  Add any supporting files that you need, such as images.
+**Step 3**: Put your draft blog in this directory.  It should have DRAFT somewhere in the file name (and can be as simple as `DRAFT.html`).  I recommend that it be in HTML or MarkDown format since that will be the requirement for the final version, but other common formats (PDF, Word, etc.) are okay for the draft.  Add any supporting files that you need, such as images.
 
 **Step 4**: Setup a pull request with the resulting files.  Make sure it includes all of the blog post files you just added, but do not include any files from outside of this new directory.  Mark it as "Merge: Ready".
 
@@ -20,7 +22,7 @@ Once this process is finished, we will be able to assign blog posts for review.
 
 ## Reviews
 
-You will be assigned other blog posts to review, and likely turn them in view a Google form (we are still working on the details, but we want reviews to be anonymous to the receiver, but not to the instructors.)
+Once all of the blog post drafts are turned in, you will be assigned three other blog posts to review, and likely turn them in view a Google form (we are still working on the details, but we want reviews to be anonymous to the receiver, but not to the instructors.)
 
 When reviewing a blogpost, you will:
 1. Rate it on four criteria (with a 1-5 rating, described below)
