@@ -82,4 +82,4 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 12/4/23  | **Catchup / Special Topics** | **Due:** Final Project! |
 | 12/6/23  | **FINAL PRESENTATIONS** | |
 | **Finals** | | |
-| 12/11/23 | **FINAL PRESENTATIONS** | |
+| 12/12/23 | **FINAL PRESENTATIONS** | Tuesday, Dec 12th, 12:45-2:45pm |
