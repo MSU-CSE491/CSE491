@@ -6,9 +6,9 @@ layout: default
 
 ## Drafts
 
-You will submit your blog post drafts, reviews, and final product into the .  For the drafts, here is the procedure you should go through:
+You will submit your blog post draft and final product into the CSE 491 github repository.  For the drafts, here is the procedure you should go through:
 
-**Step 1**: Create new branch to put your blog post in.  Name the branch with your last name followed by "_blogpost".  So my branch would be called "Ofria_blogpost".
+**Step 1**: Create new branch off of the `cse_491_fall_2023` repository to put your blog post in.  Name the branch with your last name followed by "_blogpost".  So my branch would be called "`Ofria_blogpost`".
 
 **Step 2**: In your new brach, create a sub-directory under "blogposts/" with your last name.  For example, I would create one called `blogposts/Ofria/`.
 
@@ -17,6 +17,8 @@ You will submit your blog post drafts, reviews, and final product into the .  Fo
 **Step 4**: Setup a pull request with the resulting files.  Make sure it includes all of the blog post files you just added, but do not include any files from outside of this new directory.  Mark it as "Merge: Ready".
 
 Once this process is finished, we will be able to assign blog posts for review.
+
+We expect the process for the final version of the blog posts to be very similar, but first we'll see how things go with the drafts...
 
 ## Reviews (NOT FINAL YET!)
 
