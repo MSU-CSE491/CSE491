@@ -67,7 +67,10 @@ Quiz 3 covers topics discussed in weeks four and five.
 
 ## Quiz 4: Generic C++ Code
 
-_Forthcoming_
+Quiz 4 covers templates and lambdas.
+
++ [Sample Quiz A](sample_quizzes/quiz_4/quiz_4_sample_A.html)
++ [Sample Quiz B](sample_quizzes/quiz_4/quiz_4_sample_B.html)
 
 ## Quiz 5: Efficient C++ Code
 
