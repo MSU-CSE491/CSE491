@@ -34,8 +34,9 @@ Each review at each phase will be worth one point, for a total of six points.  T
 Details of submission can be found here: [Submission instructions](blogpost_submissions.html)
 
 Below are the deadlines for each phase of the blog writing process.
+(Last update: 10/21/23)
 + Proposal: 9/18/23
-+ Draft Entry: 10/16/23 **(Moved to 10/18/23)**
++ Draft Entry: 10/18/23
 + Draft Reviews: 11/1/23
 + Final Blog Entry: 11/20/23
 + Final Reviews: 11/29/23
