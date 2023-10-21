@@ -52,23 +52,23 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 10/18/23 | **STATUS UPDATES** | **Due:** Project Updates / Full Demos, Blog Post Draft |
 | **Week 9** | | |
 | 10/23/23 | **NO CLASS** | |
-| 10/25/23 | **Measuring Efficiency** + **Profiling Code** | Quiz Redos; **Due:** Reviews of Blog Post Drafts |
+| 10/25/23 | **Measuring Efficiency** + **Profiling Code** <br> *Video:* [BENCHMARKING in C++](https://www.youtube.com/watch?v=YG4jexlSAjc) (15 min)<br> *Video:* [Intro to Profiling](https://www.youtube.com/watch?v=YbYV8rRo9_A) (How to instrument code with above benchmarking) | Quiz Redos |
 | **Week 10** | | |
 | 10/30/23 | **Avoiding copies with views, spans, and move semantics** |  |
-| 11/1/23  | **Custom Memory Management** <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) | Quiz Redos; **Due:** Efficiency reports; updated plans |
+| 11/1/23  | **Custom Memory Management** <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) | Quiz Redos; **Due:** Reviews of Blog Post Drafts |
 | **Week 11** | | |
 | 11/6/23  | **Compile-time execution** |
-| 11/8/23  | **Meta-programming: building and using type traits** | **Out:** Quiz 5 |
+| 11/8/23  | **Meta-programming: building and using type traits** | **Out:** Quiz 5 **Due:** Efficiency reports; updated plans |
 
 ## Unit V: Advanced Topics
 
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 12** | | |
-| 11/13/23 | **Deep Dive: Bit Sets** | **Due:** Final Blog Post |
+| 11/13/23 | **Deep Dive: Bit Sets** | |
 | 11/15/23 | **Advanced template use** <br> *Video:* [From C++ Templates to C++ Concepts - Metaprogramming: an Amazing Journey](https://www.youtube.com/watch?v=_doRiQS4GS8) (53 min) | Quiz redos |
 | **Week 13** | | |
-| 11/20/23 | **Compiling for the Web with Emscripten** | |
+| 11/20/23 | **Compiling for the Web with Emscripten** | **Due:** Final Blog Post |
 | 11/22/23 | **Understanding Code Licenses** | Quiz redos; **Due:** Feature Freeze |
 | **Week 14** | | |
 | 11/27/23 | **Attributes** + **User-defined Literals** | |
