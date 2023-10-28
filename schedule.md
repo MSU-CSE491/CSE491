@@ -57,7 +57,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 10/30/23 | **Value semantics** <br> *Video:* [Back to Basics: Cpp Value Semantics](https://www.youtube.com/watch?v=G9MxNwUoSt0) (48 min)|  |
 | 11/1/23  | **Custom Memory Management** <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) | Quiz Redos; **Due:** Reviews of Blog Post Drafts |
 | **Week 11** | | |
-| 11/6/23  | **Compile-time execution** <bt> *Video:* [Introduction to `constexpr`](https://www.youtube.com/watch?v=Ia0MizHPLUA)|
+| 11/6/23  | **Compile-time execution** <br> *Video:* [Introduction to `constexpr`](https://www.youtube.com/watch?v=Ia0MizHPLUA)|
 | 11/8/23  | **Meta-programming: building and using type traits** <br> *Video:* [Template Metaprogramming: Type Traits (part 1)](https://www.youtube.com/watch?v=tiAVWcjIF6o) (60 min)<br> *OPTIONAL:* [Template Metaprogramming: Type Traits (part 2)](https://www.youtube.com/watch?v=dLZcocFOb5Q) (59 min) | **Out:** Quiz 5 **Due:** Efficiency reports; updated plans |
 
 ## Unit V: Advanced Topics
