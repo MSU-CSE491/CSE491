@@ -58,7 +58,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 11/1/23  | **Custom Memory Management** <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) | Quiz Redos; **Due:** Reviews of Blog Post Drafts |
 | **Week 11** | | |
 | 11/6/23  | **Compile-time execution** <br> *Video:* [Introduction to `constexpr`](https://www.youtube.com/watch?v=Ia0MizHPLUA)|
-| 11/8/23  | **Meta-programming: building and using type traits** <br> *Video:* [Template Metaprogramming: Type Traits (part 1)](https://www.youtube.com/watch?v=tiAVWcjIF6o) (60 min)<br> *OPTIONAL:* [Template Metaprogramming: Type Traits (part 2)](https://www.youtube.com/watch?v=dLZcocFOb5Q) (59 min) | **Out:** Quiz 5 **Due:** Efficiency reports; updated plans |
+| 11/8/23  | **Meta-programming: building and using type traits** <br> *Video:* [Template Metaprogramming: Type Traits (part 1)](https://www.youtube.com/watch?v=tiAVWcjIF6o) (60 min)<br> *OPTIONAL:* [Template Metaprogramming: Type Traits (part 2)](https://www.youtube.com/watch?v=dLZcocFOb5Q) (59 min) | **Out:** Quiz 5 **Due:** Updated plans |
 
 ## Unit V: Advanced Topics
 
@@ -68,10 +68,10 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 11/13/23 | **Deep Dive: Bit Sets** | |
 | 11/15/23 | **Advanced template use** <br> *Video:* [From C++ Templates to C++ Concepts - Metaprogramming: an Amazing Journey](https://www.youtube.com/watch?v=_doRiQS4GS8) (53 min) | Quiz redos |
 | **Week 13** | | |
-| 11/20/23 | **Compiling for the Web with Emscripten** | **Due:** Final Blog Post |
-| 11/22/23 | **Understanding Code Licenses** | Quiz redos; **Due:** Feature Freeze |
+| 11/20/23 | **Compiling C++ into WebAssembly with Emscripten** <br> *Video:* [Using WebAssembly and C++ to Make a Simple Game](https://www.youtube.com/watch?v=N248809vu5g) (72 min) | **Due:** Final Blog Post |
+| 11/22/23 | **Understanding Code Licenses** <br> *Video:* [Free and Open Source software licenses explained](https://www.youtube.com/watch?v=UMIG4KnM8xw) (15 min)| Quiz redos; **Due:** Feature Freeze; Efficiency reports? |
 | **Week 14** | | |
-| 11/27/23 | **Attributes** + **User-defined Literals** | |
+| 11/27/23 | **Attributes** + **User-defined Literals** <br> *Video:* [Attributes](https://www.youtube.com/watch?v=VQiIzcuMiIc) (15 min)| <br> *Video:* [User Defined Literals // How to invent custom literal values](https://www.youtube.com/watch?v=_AbAjeTAYvE) (11 min)|
 | 11/29/23 | **Missing Topics: A whirlwind tour of additional uncovered material** | Quiz redos; **Due:** Reviews of final blog posts |
 
 ## Unit VI: Wrap-up
