@@ -52,12 +52,12 @@ This course is divided up into six units, each of which is two to four weeks lon
 | 10/18/23 | **STATUS UPDATES** | **Due:** Project Updates / Full Demos, Blog Post Draft |
 | **Week 9** | | |
 | 10/23/23 | **NO CLASS** | |
-| 10/25/23 | **Measuring Efficiency** + **Profiling Code** <br> *Video:* [BENCHMARKING in C++](https://www.youtube.com/watch?v=YG4jexlSAjc) (15 min)<br> *Video:* [Intro to Profiling](https://www.youtube.com/watch?v=YbYV8rRo9_A) (How to instrument code with above benchmarking) | Quiz Redos |
+| 10/25/23 | **Measuring Efficiency** + **Profiling Code** <br> *Video:* [BENCHMARKING in C++](https://www.youtube.com/watch?v=YG4jexlSAjc) (15 min)<br> *Video:* [Intro to Profiling](https://www.youtube.com/watch?v=YbYV8rRo9_A) (25 min) (How to instrument code with above benchmarking) | Quiz Redos |
 | **Week 10** | | |
 | 10/30/23 | **Value semantics** <br> *Video:* [Back to Basics: Cpp Value Semantics](https://www.youtube.com/watch?v=G9MxNwUoSt0) (48 min)|  |
 | 11/1/23  | **Custom Memory Management** <br> *Video:* [Track MEMORY ALLOCATIONS the Easy Way in C++](https://www.youtube.com/watch?v=sLlGEUO_EGE) (13 min) | Quiz Redos; **Due:** Reviews of Blog Post Drafts |
 | **Week 11** | | |
-| 11/6/23  | **Compile-time execution** <br> *Video:* [Introduction to `constexpr`](https://www.youtube.com/watch?v=Ia0MizHPLUA)|
+| 11/6/23  | **Compile-time execution** <br> *Video:* [Introduction to `constexpr`](https://www.youtube.com/watch?v=Ia0MizHPLUA) (11 min) |
 | 11/8/23  | **Meta-programming: building and using type traits** <br> *Video:* [Template Metaprogramming: Type Traits (part 1)](https://www.youtube.com/watch?v=tiAVWcjIF6o) (60 min)<br> *OPTIONAL:* [Template Metaprogramming: Type Traits (part 2)](https://www.youtube.com/watch?v=dLZcocFOb5Q) (59 min) | **Out:** Quiz 5 **Due:** Updated plans |
 
 ## Unit V: Advanced Topics
