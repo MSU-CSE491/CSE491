@@ -65,7 +65,7 @@ This course is divided up into six units, each of which is two to four weeks lon
 | Date     | Discussion Topic                    |  Notes |
 |:--------:|-------------------------------------| ------ |
 | **Week 12** | | |
-| 11/13/23 | **Deep Dive: Bit Sets** | |
+| 11/13/23 | **Deep Dive: Bit Sets** <br> (*No video* -- in class discussion and live coding only) | |
 | 11/15/23 | **Advanced template use** <br> *Video:* [From C++ Templates to C++ Concepts - Metaprogramming: an Amazing Journey](https://www.youtube.com/watch?v=_doRiQS4GS8) (53 min) | Quiz redos |
 | **Week 13** | | |
 | 11/20/23 | **Compiling C++ into WebAssembly with Emscripten** <br> *Video:* [Using WebAssembly and C++ to Make a Simple Game](https://www.youtube.com/watch?v=N248809vu5g) (72 min) | **Due:** Final Blog Post |
