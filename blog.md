@@ -31,10 +31,12 @@ You will review the blog entries of three other students, both in draft form (wh
 Each review at each phase will be worth one point, for a total of six points.  The reviews should focus on the quality of the writing, the accuracy of the information, the clarity of the layout and examples, the depth of analysis, and the overall utility (i.e., how well did the author meet their goal for the type of entry).  You will be provided with a link to a form for submitting the reviews as well as more detailed instructions for what to include.
 
 ## Submission and Feedback
+Details of submission can be found here: [Submission instructions](blogpost_submissions.html)
 
 Below are the deadlines for each phase of the blog writing process.
+(Last update: 10/21/23)
 + Proposal: 9/18/23
-+ Draft Entry: 10/16/23 **(Moved to 10/18/23)**
-+ Draft Reviews: 10/25/23
-+ Final Blog Entry: 11/13/23
++ Draft Entry: 10/18/23
++ Draft Reviews: 11/1/23
++ Final Blog Entry: 11/20/23
 + Final Reviews: 11/29/23
