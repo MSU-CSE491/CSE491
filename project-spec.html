@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="https://kit.fontawesome.com/bc4a49fbdb.js" crossorigin="anonymous"></script>
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>CSE 491 | CSE 491 - Fall 2023 @ MSU</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="CSE 491" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="CSE 491 - Fall 2023 @ MSU" />
+<meta property="og:description" content="CSE 491 - Fall 2023 @ MSU" />
+<meta property="og:site_name" content="CSE 491" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="CSE 491" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"CSE 491 - Fall 2023 @ MSU","headline":"CSE 491","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/CSE491/assets/img/logo.png"}},"url":"/CSE491/project-spec.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/CSE491/assets/css/style.css?v=">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="/CSE491/">CSE 491</a></h1>
+
+        
+          <img src="/CSE491/assets/img/logo.png" alt="Logo" />
+        
+
+        <p>
+          CSE 491 - Fall 2023 @ MSU
+        </p>
+        <p>
+          <a href="/CSE491/index.html">Home</a>
+        </p>
+        <p>
+          <a href="/CSE491/schedule.html"><i>Tentative</i> Schedule</a>
+        </p>
+        <p>
+          <a href="/CSE491/blog.html">Blog Entries</a>
+        </p>
+        <p>
+          <a href="/CSE491/projects.html">Projects</a>
+        </p>
+        <p>
+          <a href="/CSE491/quizzes.html">Quizzes</a>
+        </p>
+        <p>
+          <a href="/CSE491/updates.html">Weekly Updates</a>
+        </p>
+        <p>
+          <a href="/CSE491/resources.html">Additional Resources</a>
+        </p>
+
+        
+
+        
+
+        
+
+      </header>
+
+      <section>
+      <h1 id="project-specification-overview">Project Specification Overview</h1>
+
+<p>Your project specification should answer the following questions:</p>
+<ul>
+  <li>What is your high-level goal for this module?</li>
+  <li>What key features will you make available to other modules?</li>
+  <li>What features will you need other modules to provide?</li>
+  <li>Why is this project challenging?</li>
+</ul>
+
+<p>For each type of module, there are specific features that will be needed, and other features that will be desirable.  Once we have the initial high-level specifications for each module, we will be able to discuss as a class how those specs need to adjust for all of these modules to work together.</p>
+
+<p>Projects can be <strong>challenging</strong> for many reasons.  For example, they could require:</p>
+<ul>
+  <li>tricky coding or use of sophisticated C++ techniques,</li>
+  <li>a high level of optimization to be sufficiently efficient,</li>
+  <li>use of an external library or tool that you need to learn,</li>
+  <li>substantial data juggling, or</li>
+  <li>coordination with several other groups.</li>
+</ul>
+
+<p>Please make good use of the Discord to communicate with your group and coordinate with the rest of the groups in the course, as needed.  Pick challenges that will be compelling to your group, useful to other groups, and help produce an interesting final product.</p>
+
+<p>There is some functionality that <strong>ALL modules should support</strong>:</p>
+<ul>
+  <li>The ability to provide usage information about itself (likely from a series of Help functions that should return an information string)</li>
+  <li>The ability to save and load data (Worlds and Agents would need to read/write their state to a stream; Interfaces would need to trigger this process)</li>
+  <li>The ability to run unit-tests on individual functions/components</li>
+</ul>
+
+<h2 id="module-types">Module Types</h2>
+
+<p>Remember that a particular system will have at least three modules: A world, one or more agent types, and one or more interface types.  In many cases that system will be a “game” if we have a player-style interface, or else a “simulation” if it is all agents with a data-collection/analysis interface.</p>
+
+<p>Each type of module should have specific functionality.  Let’s assume that we are working with grid-based representations for worlds.  In that case:</p>
+
+<p><strong>World Modules</strong> will need to manage the grid, track where agents are on it, and handle any agent-world or agent-agent interactions.  The nature of what’s in the world and what interactions are allowed will be determined by each world team.  The world may specify a set of possible actions that agents can take, but the agents themselves will decide which actions they actually do take and when they take them.  Furthermore, the world module may need to respond to requests for information from interface modules, but the world itself is not responsible for displaying that information to a human user.</p>
+
+<p><em>Example</em>: If we were to make a simple Pac-Man game, the <strong>World</strong> module would specify where the walls are, how many agents are needed, and where those agents would start.  It would also specify where the dots are that can be consumed, power-ups, fruit, etc. and track the main agent (Pac-Man) to identify when those are eaten.  When agents collide the world has to identify the collision and the outcome; if Pac-Man collides with a ghost, Pac-Man will usually die, but if he recently ate a power-up the ghost will be sent home.  (If two ghosts collide, nothing should happen). We can also imagine a more complicated world like a dungeon-crawler game where the world has many other things to track such as more types of monsters, what agents are carrying, and what other grid positions each agent can see.</p>
+
+<p><strong>Agent Modules</strong> are the actual “brains” behind autonomous agents.  These modules need to be able to take in a set of possible actions from the world and decide which actions to take over time.  Each action will have a name associated with it (such as, “turn left”, “go forward”, or “attack”) and the agent module will decide when to trigger these.  The Agent might be manually written (as will be done with the behavioral function library) or otherwise trained (as with a Genetic Programming controller).</p>
+
+<p><em>Example</em>: In the Pac-Man game, we would likely want controllers for the four ghosts.  On easy mode, these might be manually written agents that just follow a specified pattern.  On hard mode, these might be crafted (or trained) to always head toward Pac-Man or otherwise surround or intercept him.  The basic set of behaviors should be easy to customize to whichever world they are placed in.  In a more complex dungeon crawler world, there might be many additional actions (e.g., “shoot bow”, “drink potion”, etc) and the agent would be provided with only the limited portion of the world that they can actually sense.</p>
+
+<p><strong>Interface Modules</strong> should provide humans with an ability to interact with the worlds.  At a basic level, they resemble agents. However, rather than code dictating the actions, humans will use buttons, keymaps, or other interface mechanisms. For the network interface, simplicity may be key, allowing multiple users to connect with a basic interface and only limited extra features (like group chat). However, the more advanced 2D interface group should plan to implement additional features—be it enhanced graphics, instant replay capabilities, a split-screen world view, zoom functions, or even hotkeys for a series of actions. There are lots of interesting possibilities!</p>
+
+<p><em>Example</em>: In Pac-Man, the interface would need to show the entire world (as provided by the world) and allow players to steer Pac-Man, presumably with the arrow keys.  In a more complicated world, however, the interface would need to do more.  In a more intricate setting like a dungeon-crawler, the interface might need to offer functionalities like inventory checks, item equipping, and more.</p>
+
+<p><strong>Data-Collection/Analysis Module</strong>: This module is a specialty interface that will extract insights from the system’s dynamics. Its primary function is data collection and visualization. As a game progresses, the analysis module should diligently track agent activities, world alterations, or other significant events or metrics. Beyond mere data collection, the module should also offer intuitive visualizations to help make sense of the data. This might come in the form of graphs, heat maps, or an interactive dashboard, depending on the complexity and the data type. The ultimate aim is to allow for a post-game analysis that provides insights into the behaviors of agents, the interaction dynamics within the world, and potentially, areas for optimization or adjustment.</p>
+
+<p><em>Example</em>: In the context of Pac-Man, the Analysis Module might track the routes taken by the ghosts, highlighting high-frequency paths with heatmaps. It might also document areas within the maze where Pac-Man is frequently cornered or caught. Other metrics could include the average time taken to consume all dots, the frequency of power-up consumption versus ghost confrontations, or even Pac-Man’s movement patterns in relation to ghost proximity. By visualizing these metrics, players and developers can gain a clearer understanding of gameplay dynamics and strategize better for subsequent runs.</p>
+
+<h2 id="timeline">Timeline</h2>
+
+<p>Please put substantial thought in to your modules this week.  During class on Monday (Sept 11) we will talk more about the Agent, World, and Interface base classes and what they might look like.  I’ll also want each group to say a few words about their current plans.  By Wednesday’s class (Sept 13) I want the initial specification (one to two pages) written up, answering the questions at the top of this document.</p>
+
+<p>Once we have all of the feature plans and requests, we’ll spend the following week fleshing out the full API and preliminary design document for each of the modules.</p>
+
+      </section>
+
+      <footer>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+
+    </div>
+
+    <script src="/CSE491/assets/js/scale.fix.js"></script>
+
+    
+
+  </body>
+</html>
