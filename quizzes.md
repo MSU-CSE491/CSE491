@@ -74,4 +74,7 @@ Quiz 4 covers templates and lambdas.
 
 ## Quiz 5: Efficient C++ Code
 
-_Forthcoming_
+Quiz 5 covers benchmarking, profiling, custom memory management, constexpr, value semantics, and template metaprogramming.
+
++ [Sample Quiz A](sample_quizzes/quiz_5/quiz_5_sample_A.html)
++ [Sample Quiz B](sample_quizzes/quiz_5/quiz_5_sample_B.html)
